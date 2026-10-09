@@ -1,0 +1,1474 @@
+KEMENTERIAN PENDIDIKAN MALAYSIA
+KURIKULUM STANDARD SEKOLAH MENENGAH
+Sejarah
+Dokumen Standard Kurikulum dan Pentaksiran
+Tingkatan 1
+Bahagian Pembangunan Kurikulum 2015
+
+Terbitan 2016
+� Kementerian Pendidikan Malaysia
+Hak Cipta Terpelihara. Tidak dibenarkan mengeluar ulang mana-mana bahagian artikel, ilustrasi dan isi kandungan buku ini dalam apa juga bentuk dan dengan cara apa jua sama ada secara elektronik, fotokopi, mekanik, rakaman atau cara lain sebelum mendapat kebenaran bertulis daripada Pengarah, Bahagian Pembangunan Kurikulum, Kementerian Pendidikan Malaysia, Aras 4-8, Blok E9, Parcel E, Kompleks Pentadbiran Kerajaan Persekutuan, 62604 Putrajaya.
+ISBN: 978-967-420-133-3
+
+KANDUNGAN
+
+Rukun Negara....................................................................................................................................................
+
+v
+
+Falsafah Pendidikan Kebangsaan.....................................................................................................................
+
+vi
+
+Definisi Kurikulum Kebangsaan........................................................................................................................
+
+vii
+
+Kata Pengantar..................................................................................................................................................
+
+ix
+
+Pendahuluan......................................................................................................................................................
+
+1
+
+Matlamat............................................................................................................................................................
+
+3
+
+Objektif...............................................................................................................................................................
+
+3
+
+Kerangka Kurikulum Standard Sekolah Menengah...........................................................................................
+
+4
+
+Fokus.................................................................................................................................................................
+
+5
+
+Kemahiran Abad Ke -21......................................................................................................................................
+
+11
+
+Kemahiran Berfikir Aras Tinggi...........................................................................................................................
+
+12
+
+Strategi Pengajaran dan Pembelajaran.............................................................................................................
+
+13
+
+Elemen Merentas Kurikulum..............................................................................................................................
+
+18
+
+Pentaksiran........................................................................................................................................................
+
+21
+
+Organisasi Kandungan......................................................................................................................................
+
+25
+
+Panduan Pelaksanaan Kajian Kes....................................................................................................................
+
+38
+
+Glosari..............................................................................................................................................................
+
+55
+
+RUKUN NEGARA
+BAHAWASANYA Negara kita Malaysia mendukung cita-cita hendak: Mencapai perpaduan yang lebih erat dalam kalangan seluruh masyarakatnya;
+Memelihara satu cara hidup demokratik; Mencipta satu masyarakat yang adil di mana kemakmuran negara
+akan dapat dinikmati bersama secara adil dan saksama; Menjamin satu cara yang liberal terhadap tradisi-tradisi
+kebudayaannya yang kaya dan berbagai corak; Membina satu masyarakat progresif yang akan menggunakan
+sains dan teknologi moden;
+MAKA KAMI, rakyat Malaysia, berikrar akan menumpukan seluruh tenaga dan usaha kami untuk mencapai cita-cita tersebut berdasarkan prinsip-prinsip yang berikut:
+KEPERCAYAAN KEPADA TUHAN KESETIAAN KEPADA RAJA DAN NEGARA
+KELUHURAN PERLEMBAGAAN KEDAULATAN UNDANG-UNDANG KESOPANAN DAN KESUSILAAN
+v
+
+FALSAFAH PENDIDIKAN KEBANGSAAN
+"Pendidikan di Malaysia adalah suatu usaha berterusan ke arah memperkembangkan lagi potensi individu secara menyeluruh dan bersepadu untuk mewujudkan insan yang seimbang dan harmonis dari segi intelek, rohani, emosi dan jasmani berdasarkan kepercayaan dan kepatuhan kepada Tuhan. Usaha ini adalah bertujuan untuk melahirkan warganegara Malaysia yang berilmu pengetahuan, berketerampilan, berakhlak mulia, bertanggungjawab dan berkeupayaan mencapai kesejahteraan diri serta memberi sumbangan terhadap keharmonian dan kemakmuran keluarga, masyarakat dan negara."
+Sumber: Akta Pendidikan 1996 (Akta 550)
+vi
+
+DEFINISI KURIKULUM KEBANGSAAN
+3. Kurikulum Kebangsaan (1) Kurikulum Kebangsaan ialah suatu program pendidikan yang termasuk kurikulum dan kegiatan kokurikulum yang merangkumi semua pengetahuan, kemahiran, norma, nilai, unsur kebudayaan dan kepercayaan untuk membantu perkembangan seseorang murid dengan sepenuhnya dari segi jasmani, rohani, mental dan emosi serta untuk menanam dan mempertingkatkan nilai moral yang diingini dan untuk menyampaikan pengetahuan."
+Sumber: Peraturan-Peraturan Pendidikan (Kurikulum Kebangsaan) 1997 [PU (A) 531/97]
+vviii
+
+vii
+
+KATA PENGANTAR
+Kurikulum Standard Sekolah Menengah (KSSM) yang dilaksanakan secara berperingkat mulai tahun 2017 akan menggantikan Kurikulum Bersepadu Sekolah Menengah (KBSM) yang mula dilaksanakan pada tahun 1989. KSSM digubal bagi memenuhi keperluan dasar baharu di bawah Pelan Pembangunan Pendidikan Malaysia (PPPM) 2013-2025 agar kualiti kurikulum yang dilaksanakan di sekolah menengah setanding dengan standard antarabangsa. Kurikulum berasaskan standard yang menjadi amalan antarabangsa telah dijelmakan dalam KSSM menerusi penggubalan Dokumen Standard Kurikulum dan Pentaksiran (DSKP) untuk semua mata pelajaran yang mengandungi Standard Kandungan Standard Pembelajaran dan Standard Prestasi.
+
+DSKP yang dihasilkan juga telah menyepadukan enam tunjang Kerangka KSSM, mengintegrasikan pengetahuan, kemahiran dan nilai, serta memasukkan secara eksplisit Kemahiran Abad Ke-21 dan Kemahiran Berfikir Aras Tinggi (KBAT). Penyepaduan tersebut dilakukan untuk melahirkan insan seimbang dan harmonis dari segi intelek, rohani, emosi dan jasmani sebagaimana tuntutan Falsafah Pendidikan Kebangsaan.
+Bagi menjayakan pelaksanaan KSSM, pengajaran dan pembelajaran guru perlu memberi penekanan kepada KBAT dengan memberi fokus kepada pendekatan Pembelajaran Berasaskan Inkuiri dan Pembelajaran Berasaskan Projek, supaya murid dapat menguasai kemahiran yang diperlukan dalam abad ke-21.
+
+Usaha memasukkan standard pentaksiran dalam dokumen kurikulum telah mengubah landskap sejarah sejak Kurikulum Kebangsaan dilaksanakan di bawah Sistem Pendidikan Kebangsaan. Menerusinya murid dapat ditaksir secara berterusan untuk mengenal pasti tahap penguasaannya dalam sesuatu mata pelajaran, serta membolehkan guru membuat tindakan susulan bagi mempertingkatkan pencapaian murid.
+
+Kementerian Pendidikan Malaysia merakamkan setinggi-tinggi penghargaan dan ucapan terima kasih kepada semua pihak yang terlibat dalam penggubalan KSSM. Semoga pelaksanaan KSSM akan mencapai hasrat dan matlamat Sistem Pendidikan Kebangsaan.
+Dr. SARIAH BINTI ABD. JALIL Pengarah Bahagian Pembangunan Kurikulum
+
+ix
+
+ix
+
+PENDAHULUAN
+
+KSSM SEJARAH TINGKATAN 1
+
+Sejarah ialah mata pelajaran teras dalam Kurikulum Standard
+
+Sekolah Menengah (KSSM) yang wajib dipelajari oleh semua
+
+murid secara berterusan dari Tingkatan Satu hingga
+
+ke Tingkatan Lima. Kurikulum Sejarah sekolah menengah
+
+dilaksanakan secara bersepadu. Kesepaduan disiplin Sejarah
+
+merangkumi
+
+aspek
+
+kandungan
+
+pengetahuan,
+
+Kemahiran Pemikiran Sejarah, Elemen Kewarganegaraan dan
+
+Nilai Sivik.
+
+Kandungan mata pelajaran Sejarah KSSM adalah berbentuk kronologi yang membincangkan perihal kehidupan masyarakat dan negara daripada aspek politik, ekonomi dan sosial. Peristiwa sejarah disusun secara kronologi supaya murid dapat memahami proses perkembangan masyarakat dan negara yang menumpukan kepada pemahaman yang menyeluruh tentang pembinaan negara bangsa Malaysia bermula dari Zaman Prasejarah hingga kini. Ilmu tersebut membolehkan murid membuat perbandingan peradaban yang dicapai oleh negara luar dengan negara kita. Oleh itu, murid perlu didedahkan dengan pengetahuan tentang dunia luar supaya mereka mampu bersaing di peringkat global.
+
+Perkembangan pembelajaran sepanjang hayat turut didorong oleh transformasi kandungan kurikulum. Sehubungan itu, mata pelajaran Sejarah adalah disiplin ilmu yang dinamik menekankan kepelbagaian kaedah pengajaran dan pembelajaran (PdP) antaranya kemahiran berfikir, kajian kes, kemahiran teknologi maklumat dan komunikasi, pengajaran berasaskan kajian masa depan, pembelajaran secara konstruktivisme, pembelajaran secara kontekstual, dan pengaplikasian Theory of Constraints (TOC). Pendekatan PdP mata pelajaran Sejarah menjurus kepada pemupukan kemahiran berfikir aras tinggi bagi memenuhi matlamat dan aspirasi negara. Mata pelajaran Sejarah mengaplikasikan kurikulum holistik dan futuristik yang menekankan kepada kurikulum bertaraf dunia serta berkait rapat dengan perkembangan teknologi maklumat.
+Pentaksiran dalam mata pelajaran Sejarah pula bertujuan sebagai kayu pengukur untuk menilai pencapaian murid dalam memperoleh pengetahuan, menguasai kemahiran dan mengamalkan nilai di samping menilai aktiviti yang dijalankan semasa PdP. Pentaksiran juga menyokong pembelajaran murid dan memberi maklum balas berguna kepada stake holder seperti
+
+1
+
+pentadbir, guru, murid dan ibu bapa/penjaga tentang perkembangan dan pencapaian murid. Maklum balas ini boleh digunakan untuk meningkat mutu PdP Sejarah sama ada di pihak guru ataupun murid.
+Oleh itu, melalui PdP Sejarah sebagai satu disiplin ilmu akan menjadikan seseorang murid arif dan peka sejarah serta menyediakan mereka bagi menghadapi cabaran masa depan dengan memahami peristiwa masa lalu serta menghayati perjuangan tokoh-tokoh penting negara. Jelaslah, hasrat Kurikulum Sejarah memberikan penekanan kepada pembangunan sahsiah murid di samping pemupukan nilai-nilai keperibadian mulia dan semangat kewarganegaraan dan dapat menjadikan pengajaran daripada sejarah sebagai iktibar untuk membina kesedaran kebangsaan serta cintakan negara.
+.
+2
+
+KSSM SEJARAH TINGKATAN 1
+
+MATLAMAT
+Kurikulum Sejarah bertujuan memberi kefahaman mengenai masyarakat, negara Malaysia dan dunia. Usaha ini, dapat memupuk dan memperkukuh identiti diri serta semangat setia negara sebagai warganegara Malaysia. Mata pelajaran Sejarah juga dapat mewujudkan semangat perpaduan, perasaan kekitaan, kesedaran kebangsaan dan memperkukuh perasaan cinta akan tanah air.
+OBJEKTIF
+KSSM Sejarah bertujuan untuk membolehkan murid mencapai objektif berikut:
+1. Menyatakan kepentingan sejarah dalam kehidupan seharian dengan mengambil iktibar daripada peristiwa sejarah.
+2. Menerangkan kepentingan mengamalkan semangat perpaduan dalam usaha pembangunan dan kemajuan negara.
+3. Mengaplikasikan Kemahiran Pemikiran Sejarah dalam kalangan murid melalui kajian kes.
+
+KSSM SEJARAH TINGKATAN 1
+4. Mengaplikasikan Kemahiran Berfikir Aras Tinggi (KBAT) dalam melahirkan murid untuk bersaing di peringkat global.
+5. Menghuraikan usaha dan sumbangan tokoh tanah air dalam memperjuang dan mempertahankan kedaulatan negara.
+6. Membincangkan perkembangan sejarah masyarakat dan negara bagi membina jati diri.
+7. Membincangkan kepentingan dan peranan kepelbagaian kaum dan etnik dalam pembentukan negara bangsa.
+8. Meningkatkan kemahiran mengaplikasi, menganalisis, menilai dan mencipta idea melalui fakta sejarah yang tepat.
+9. Membina minat terhadap sejarah sebagai satu disiplin ilmu yang dinamik.
+10. Membina semangat patrotisme dalam mempertahankan kedaulatan negara.
+
+3
+
+KERANGKA KURIKULUM STANDARD SEKOLAH MENENGAH
+Kurikulum Standard Sekolah Menengah (KSSM) dibina berasaskan enam tunjang, iaitu Komunikasi; Kerohanian, Sikap dan Nilai; Kemanusiaan; Keterampilan Diri; Perkembangan Fizikal dan Estetika; serta Sains dan Teknologi. Enam tunjang tersebut merupakan domain utama yang menyokong antara satu sama lain dan disepadukan dengan pemikiran kritis, kreatif dan inovatif.
+
+KSSM SEJARAH TINGKATAN 1
+Kesepaduan ini bertujuan membangunkan modal insan yang menghayati nilai-nilai murni berteraskan keagamaan, berpengetahuan, berketerampilan, berpemikiran kritis dan kreatif serta inovatif sebagaimana yang digambarkan dalam Rajah 1.
+
+Rajah 1: Kerangka Kurikulum Standard Sekolah Menengah
+4
+
+FOKUS
+Fokus utama Kurikulum Standard Sekolah Menengah bagi mata pelajaran Sejarah adalah untuk melahirkan murid yang arif dan peka sejarah serta mampu menyumbang kepada pembentukan masyarakat yang berdaya saing pada masa hadapan. Kurikulum ini memberi penekanan kepada kesepaduan aspek pengetahuan, kemahiran dan nilai agar dapat memberi pemahaman kepada murid dalam membina jati diri dan semangat cinta akan negara.
+Reka bentuk kurikulum Sejarah merupakan kesepaduan berbentuk `intra' iaitu yang berlaku dalam pengetahuan Sejarah itu sendiri. Pengetahuan Sejarah ini meliputi Sejarah Malaysia, Sejarah Dunia dan Pembinaan Negara Bangsa Malaysia. Manakala elemen kemahiran pula mencakupi Kemahiran Pemikiran Sejarah. Seterusnya elemen nilai merangkumi Elemen Kewarganegaraan dan Nilai Sivik yang digabung jalin mengikut prinsip dan nilai demokrasi, keterikatan emosi kepada negara, perasaan kekitaan, semangat patriotik dan jati diri.
+
+KSSM SEJARAH TINGKATAN 1
+Kesepaduan ini dilaksanakan secara serentak dan berterusan dalam PdP mata pelajaran Sejarah seperti yang digambarkan dalam Rajah 2.
+
+ELEMEN KEWARGANEGARAAN
+DAN NILAI SIVIK
+KEMAHIRAN PEMIKIRAN SEJARAH
+
+ SEJARAH MALAYSIA
+ PEMBINAAN NEGARA BANGSA
+ SEJARAH DUNIA
+
+Rajah 2: Fokus kurikulum Sejarah
+5
+
+Pengetahuan Fokus pengetahuan (kandungan) kurikulum Sejarah sekolah menengah merupakan pemahaman dan penghayatan tentang sejarah negara Malaysia. Sejarah negara kita dipelajari dan dikaji secara kronologi dari Zaman Air Batu hingga pembentukan negara dan bangsa Malaysia mengikut tema berikut yang disusun daripada Tingkatan Satu hingga Tingkatan Lima seperti yang terdapat dalam jadual 1 :
+
+KSSM SEJARAH TINGKATAN 1
+Kemahiran Pemikiran Sejarah Mata pelajaran Sejarah mempunyai teras struktur disiplin yang sistematik bagi mengembangkan proses PdP agar lebih dinamik. Sejarah merupakan disiplin ilmu untuk mencari kebenaran tentang masa lalu. Oleh itu, sejarawan, guru sejarah dan murid terdedah kepada persoalan Pemikiran Inkuiri iaitu `Apa, Bila, Siapa, Di mana, Mengapa dan Bagaimana' setiap kali mereka mempelajari ilmu sejarah.
+
+Jadual 1 : Pemetaan Tema Kurikulum Sejarah KSSM
+
+TINGKATAN Tingkatan 1 Tingkatan 2 Tingkatan 3 Tingkatan 4 Tingkatan 5
+
+TEMA Sejarah Kita dan Dunia Warisan Negara Kedatangan Kuasa Asing Pembinaan Negara Malaysia dan Masa Depan
+
+Aspek sejarah dunia yang mempunyai perkaitan dengan sejarah Malaysia dipelajari supaya murid dapat memahami dengan lebih jelas tentang sejarah negara kita untuk memperkukuhkan rasa bangga dalam kalangan murid terhadap sumbangan Malaysia dalam sejarah dunia.
+
+Murid diajar memahami ciri-ciri sejarah supaya dapat meningkatkan pemikiran dengan lebih kritis dan analitis. Kemahiran ini dipupuk dan dikembangkan dalam kalangan murid dengan pelbagai kemahiran seperti kemahiran memahami kronologi, meneroka bukti, membuat interpretasi, membuat imaginasi dan membuat rasionalisasi.
+1. Memahami Kronologi - urutan waktu dan peristiwa sejarah. Murid dididik dengan kemahiran memahami tempoh masa (periodisasi) merujuk kepada kemajuan sesebuah tamadun.
+2. Meneroka Bukti - melibatkan kemahiran mengenal pasti dan membuat kaji banding antara sumber primer dengan sumber sekunder untuk mendapatkan maklumat sejarah. Kemahiran ini dapat menjana pemikiran sejarah dan
+
+6
+
+KSSM SEJARAH TINGKATAN 1
+
+pemahaman sejarah serta sifatnya yang interpretatif. Sumber-sumber tersebut diperoleh melalui kaedah lisan, kaedah bertulis dan kaedah arkeologi.
+3. Membuat Interpretasi - membuat tafsiran terhadap sesuatu peristiwa dengan memberi ulasan berdasarkan bukti. Murid dapat mengetahui perbezaan tafsiran dan perspektif yang wujud dalam kalangan sejarawan. Di samping itu, murid dapat membezakan fakta sejarah dengan tafsiran sejarah.
+4. Membuat Imaginasi - usaha melibatkan murid dengan sesuatu situasi dalam peristiwa sejarah. Kemahiran imaginasi diperoleh secara visual dan empati.
+5. Membuat Rasionalisasi - melibatkan penggunaan akal fikiran dan membuat pertimbangan yang wajar dalam menyelesaikan sesuatu masalah. Usaha ini memerlukan kemahiran murid untuk membuat hipotesis, mengumpul maklumat, menentukan bukti yang signifikan dan membuat inferens daripada maklumat yang dikumpul.
+Dengan menguasai Kemahiran Pemikiran Sejarah, murid boleh menggunakan kemahiran ini untuk menganalisis sumber dan merekod hasil analisis. Seterusnya murid boleh membuat
+
+penjelasan sejarah dengan tepat sama ada bentuk lisan atau tulisan serta dapat memahami peristiwa sejarah secara empati. Dengan ini, pemahaman sejarah boleh mendidik murid menganalisis kesinambungan dan perubahan yang dialami manusia.
+Melalui proses Kemahiran Pemikiran Sejarah, murid boleh memahami sesuatu peristiwa masa lalu daripada pelbagai perspektif secara mendalam agar dapat meletakkan diri mereka secara imaginatif dalam situasi seseorang tokoh atau peristiwa. Akhirnya, murid dapat melihat sejarah secara empati untuk membina corak pemikiran yang lebih terbuka, toleransi dan matang ke arah melahirkan warganegara yang menghargai negara bangsa.
+Elemen Kewarganegaraan dan Nilai Sivik Elemen Kewarganegaraan dan Nilai Sivik dalam pembelajaran Sejarah adalah untuk membentuk warganegara yang mempunyai jati diri dan berkeperibadian Malaysia yang patriotik berlandaskan prinsip-prinsip Rukun Negara dan berteraskan Perlembagaan Negara. Penerapan ini memberi penekanan kepada aspek amalan dan penghayatan dalam kalangan murid bagi membentuk dan melahirkan bangsa Malaysia yang mengetahui hak, tanggungjawab serta
+
+7
+
+KSSM SEJARAH TINGKATAN 1
+
+peranannya sebagai warganegara. Fokus utama penerapan Elemen Kewarganegaraan dan Nilai Sivik dalam mata pelajaran Sejarah adalah untuk membentuk warganegara seperti berikut:
+1. Mendukung Prinsip dan Nilai Demokrasi (i) mentaati raja dan pemimpin negara (ii) mematuhi undang-undang dan peraturan (iii) menyanjungi corak pemerintahan dan prinsip demokrasi (iv) mempertahankan dan menjunjung perlembagaan negara
+2. Mempunyai Keterikatan Emosi kepada Negara (i) bertindak wajar (ii) bersifat amanah dan jujur (iii) berlaku adil dan bertimbang rasa (iv) berbangga dengan sejarah negara (v) berbangga dengan tradisi dan budaya bangsa (vi) bersyukur sebagai warganegara Malaysia (vii) menghargai jasa dan perjuangan tokoh-tokoh negara
+3. Mempunyai Perasaan Kekitaan (i) hormat menghormati
+
+(ii) bertoleransi (iii) bersatu padu dan berharmoni (iv) bersefahaman dan bermuafakat (v) bekerjasama dan tolong menolong (vi) muhibah dan semangat bermasyarakat (vii) berganding bahu membangunkan negara (viii) kesedaran memelihara alam sekitar
+4. Mengukuhkan Semangat Patriotik (i) hormat lambang-lambang negara (ii) bertanggungjawab kepada bangsa dan negara (iii) berani mempertahankan kedaulatan bangsa dan negara (iv) berkorban untuk negara
+5. Mempunyai Jati Diri (i) kepercayaan dan kepatuhan kepada Tuhan (ii) berilmu dan berketrampilan (iii) berakhlak dan berbudi pekerti mulia (iv) rajin dan gigih (v) keterlibatan diri dalam pembangunan negara (vi) tabah menghadapi cabaran (vii) berdikari (viii) menghargai masa (ix) kreatif dan inovatif
+
+8
+
+Panduan Pelaksanaan Elemen Kewarganegaraan dan Nilai Sivik
+Eleman Kewarganegaraan dan Nilai Sivik dalam penulisan Standard Pembelajaran menggunakan simbol K seperti yang ditunjukkan dalam Jadual 2.
+Jadual 2: Penulisan Elemen Kewarganegaraan dan Nilai Sivik dalam Standard Pembelajaran.
+
+KSSM SEJARAH TINGKATAN 1
+Elemen Kewarganegaraan dan Nilai Sivik dinyatakan dengan jelas sebagai Standard Pembelajaran. Elemen ini tidak boleh diajar bersendirian dan merupakan satu indikator yang harus dijelmakan dalam objektif PdP oleh guru.
+Elemen ini dilaksanakan dalam aktiviti PdP semasa guru merancang Rancangan Pengajaran Harian (RPH). Berikut adalah contoh penerapan Elemen Kewarganegaraan dan Nilai Sivik melalui aktiviti soal jawab.
+
+� Elemen Kewarganegaraan ditandakan
+dengan K.
+� Mesti ditulis dalam RPH.
+� Tidak boleh diajar secara berasingan dengan SP
+9
+
+KSSM SEJARAH TINGKATAN 1
+Contoh Panduan Pelaksanaan Penerapan Elemen Kewarganegaraan dan Nilai Sivik Elemen Kewarganegaraan ditanda dengan K (seperti contoh K1.1.9). Elemen ini tidak boleh diajar secara berasingan (mesti ditulis dalam RPH). Objektif untuk elemen ini perlu ditulis dalam RPH dalam membuat perancangan pengajaran dan pembelajaran. Terdapat pelbagai kaedah untuk melahirkan Elemen Kewarganegaraan Dan Nilai Sivik dalam kalangan murid antaranya melalui aktiviti soal jawab, kajian kes, pemerhatian dan kaedah-kaedah lain mengikut kreativiti guru dan tahap kebolehan murid semasa melaksanakan PdP. Contoh: 1.1 Pengenalan Ilmu Sejarah 1.1.3 Menghuraikan konsep masa silam dan ruang dalam sejarah. K1.1.9 Merumuskan kepentingan menghargai peristiwa sejarah negara kita. Bentuk soalan:
+1. Apakah peristiwa penting dalam sejarah negara kita? 2. Mengapakah anda perlu menghargai peristiwa sejarah negara?
+10
+
+KEMAHIRAN ABAD KE-21
+Satu daripada hasrat KSSM adalah untuk melahirkan murid yang mempunyai Kemahiran Abad Ke-21 dengan memberi fokus kepada kemahiran berfikir serta kemahiran hidup dan kerjaya yang berteraskan amalan nilai murni. Kemahiran Abad ke-21 bermatlamat untuk melahirkan murid yang mempunyai ciri-ciri yang dinyatakan dalam profil murid supaya berupaya bersaing di peringkat global.
+Justeru, penggubalan kurikulum Sejarah mengambil kira penyepaduan pengetahuan, kemahiran dan nilai bagi melahirkan murid yang dapat memperkukuhkan identiti diri dan semangat setia negara seiring dengan ciri-ciri murid abad ke-21 seperti dalam Jadual 3.
+
+Jadual 3: Profil Murid
+
+PROFIL MURID Berdaya Tahan
+Mahir Berkomunikasi
+
+PENERANGAN
+Mereka mampu menghadapi dan mengatasi kesukaran, mengatasi cabaran dengan kebijaksanaan, keyakinan, toleransi, dan empati.
+Mereka menyuarakan dan meluahkan fikiran, idea dan maklumat dengan yakin dan kreatif secara lisan dan bertulis, menggunakan pelbagai media dan teknologi.
+
+KSSM SEJARAH TINGKATAN 1
+
+PROFIL MURID Pemikir
+
+PENERANGAN
+Mereka berfikir secara kritikal, kreatif dan inovatif; mampu untuk menangani masalah yang kompleks dan membuat keputusan yang beretika. Mereka berfikir tentang pembelajaran dan diri mereka sebagai murid. Mereka menjana soalan dan bersifat terbuka kepada perspektif, nilai dan tradisi individu dan masyarakat lain. Mereka berkeyakinan dan kreatif dalam menangani bidang pembelajaran yang baru
+
+Kerja Sepasukan
+
+Mereka boleh bekerjasama secara berkesan dan harmoni dengan orang lain. Mereka mengalas tanggungjawab bersama serta menghormati dan menghargai sumbangan yang diberikan oleh setiap ahli pasukan. Mereka memperoleh kemahiran interpersonal melalui aktiviti kolaboratif, dan ini menjadikan mereka pemimpin dan ahli pasukan yang lebih baik.
+
+Bersifat Tahu
+
+Ingin
+
+Mereka membangunkan rasa ingin tahu semula jadi untuk meneroka strategi dan idea baru. Mereka mempelajari kemahiran yang diperlukan untuk menjalankan inkuiri dan penyelidikan, serta menunjukkan sifat berdikari dalam pembelajaran. Mereka menikmati pengalaman pembelajaran sepanjang hayat secara berterusan.
+
+11
+
+KSSM SEJARAH TINGKATAN 1
+
+PROFIL MURID Berprinsip Bermaklumat
+Penyayang/ Prihatin
+Patriotik
+
+PENERANGAN
+
+Mereka berintegriti dan jujur, kesamarataan, adil dan menghormati maruah individu, kumpulan dan komuniti. Mereka bertanggungjawab atas tindakan, akibat tindakan serta keputusan mereka.
+
+Mereka mendapatkan pengetahuan dan
+
+membentuk pemahaman yang luas dan
+
+seimbang merentasi pelbagai disiplin
+
+pengetahuan.
+
+Mereka
+
+meneroka
+
+pengetahuan dengan cekap dan berkesan
+
+dalam konteks isu tempatan dan global.
+
+Mereka memahami isu-isu etika/undang-
+
+undang berkaitan maklumat yang
+
+diperoleh.
+
+Mereka menunjukkan empati, belas kasihan dan rasa hormat terhadap keperluan dan perasaan orang lain. Mereka komited untuk berkhidmat kepada masyarakat dan memastikan kelestarian alam sekitar.
+
+Mereka mempamerkan kasih sayang, sokongan dan rasa hormat terhadap negara.
+
+berstruktur dan berfokus dalam kalangan murid. Penerangan KBAT adalah berfokus kepada empat tahap pemikiran seperti Jadual 4.
+
+Jadual 4: Tahap pemikiran dalam KBAT
+
+TAHAP PEMIKIRAN Mengaplikasi
+Menganalisis
+Menilai
+Mencipta
+
+PENERANGAN
+Menggunakan pengetahuan, kemahiran, dan nilai dalam situasi berlainan untuk melaksanakan sesuatu perkara
+Mencerakinkan maklumat kepada bahagian kecil untuk memahami dengan lebih mendalam serta hubung kait antara bahagian berkenaan
+Membuat pertimbangan dan keputusan menggunakan pengetahuan, pengalaman, kemahiran, dan nilai serta memberi justifikasi
+Menghasilkan idea atau produk atau kaedah yang kreatif dan inovatif
+
+KEMAHIRAN BERFIKIR ARAS TINGGI
+Kemahiran Berfikir Aras Tinggi (KBAT) dinyatakan dalam kurikulum secara eksplisit supaya guru dapat menterjemahkan dalam PdP bagi meransang pemikiran
+
+KBAT ialah keupayaan untuk mengaplikasikan pengetahuan, kemahiran dan nilai dalam membuat penaakulan dan refleksi bagi menyelesaikan masalah, membuat keputusan, berinovasi dan berupaya mencipta sesuatu.
+
+12
+
+KBAT merangkumi kemahiran berfikir kritis, kreatif dan menaakul dan strategi berfikir.
+Kemahiran berfikir kritis adalah kebolehan untuk menilai sesuatu idea secara logik dan rasional untuk membuat pertimbangan yang wajar dengan menggunakan alasan dan bukti yang munasabah.
+
+KSSM SEJARAH TINGKATAN 1
+STRATEGI PENGAJARAN DAN PEMBELAJARAN
+Keberkesanan PdP bergantung kepada kreativiti guru merancang, mengolah serta melaksanakan pendekatan, kaedah, teknik secara bersepadu dan sistematik. PdP yang berpusatkan murid bagi menggalakkan penglibatan yang aktif dapat menimbulkan suasana pembelajaran yang menarik.
+
+Kemahiran berfikir kreatif adalah kemampuan untuk menghasilkan atau mencipta sesuatu yang baharu dan bernilai dengan menggunakan daya imaginasi secara asli serta berfikir tidak mengikut kelaziman.
+
+Di samping itu, memberi fokus kepada pengetahuan dan mengaitkan penerapan dan pengamalan Elemen Kewarganegaraan Dan Nilai Sivik. Terdapat beberapa kaedah PdP Sejarah seperti berikut:
+
+Kemahiran menaakul adalah keupayaan individu membuat pertimbangan dan penilaian secara logik dan rasional.
+Strategi berfikir merupakan cara berfikir yang berstruktur dan berfokus untuk menyelesaikan masalah. KBAT boleh diaplikasikan dalam bilik darjah melalui aktiviti berbentuk menaakul, pembelajaran inkuiri, penyelesaian masalah dan projek. Guru dan murid perlu menggunakan alat berfikir seperti peta pemikiran dan peta minda serta penyoalan aras tinggi untuk menggalakkan murid berfikir.
+
+Kajian Kes Kajian kes merupakan satu komponen dalam kurikulum Sejarah yang wajib dilaksanakan sebagai pendedahan kepada murid untuk mengaplikasikan Kemahiran Pemikiran Sejarah. Kajian ini melibatkan kemahiran mengaplikasi, menganalisis, menilai dan mencipta idea berdasarkan faktafakta sejarah. Kajian kes ialah pembelajaran melalui penerokaan yang melibatkan pengetahuan, penglibatan diri, kemahiran kreativiti dan pengaplikasian metodologi Sejarah. Pengalaman menjalankan kajian kes dapat menggalakkan kemahiran penyelesaian masalah dan sikap ingin tahu.
+
+13
+
+KSSM SEJARAH TINGKATAN 1
+
+Pembelajaran Berasaskan Inkuiri Kemahiran inkuiri dapat mengembangkan kemahiran berfikir dan sikap ingin tahu dalam kalangan murid. Semasa melaksanakan inkuiri, murid akan lebih peka kepada keadaan masyarakat dan persekitarannya.
+Kemahiran inkuiri merupakan kaedah PdP yang berpusatkan murid. Murid berperanan merancang dan menjalankan aktiviti pembelajaran. Mereka melibatkan diri secara aktif untuk mencari dan mengumpul maklumat melalui pelbagai aktiviti seperti memerhati, mendengar, menyoal, berbincang, membuat rujukan, ujikaji dan kaji siasat. Aktiviti ini boleh dijalankan secara berasingan atau digabungkan dalam pelbagai teknik pembelajaran seperti kerja projek, simulasi, lawatan, main peranan dan kuiz.
+Kemahiran inkuiri digunakan dalam kajian kes kerana membolehkan murid memperoleh ilmu pengetahuan dan menguasai kemahiran melalui penaakulan. Kemampuan mencari dan mengumpul maklumat melalui pelbagai aktiviti tersebut dapat meningkatkan ilmu pengetahuan dan kemahiran yang lebih bermakna dan berkesan.
+
+Menerusi kemahiran ini, guru juga boleh berperanan sebagai pembimbing untuk merangsang minat murid menjadi lebih yakin dalam menjalankan aktiviti pembelajaran.
+Pembelajaran Berasaskan Kajian Masa Depan Kajian Masa Depan (KMD) ialah suatu pendekatan pengajaran untuk mendidik murid agar lebih prihatin terhadap sesuatu perkara atau isu yang berlaku pada masa lampau, masa kini dan masa depan. Ini bermakna murid dapat membuat ramalan, menjangka akibat, serta mengendalikan perubahan supaya mereka mendapat manfaat yang maksimum. Pengajaran berasaskan KMD merupakan strategi secara saintifik yang dibina untuk menambahkan keupayaan murid dalam menghadapi pelbagai cabaran hidup dan membuat keputusan. Dalam mata pelajaran Sejarah, murid diajar menggunakan pemikiran kritis dan kreatif untuk meninjau perubahan keadaan daripada masa lalu sehingga ke masa kini dan meramalkan keadaan pada masa hadapan.
+Pembelajaran Luar Bilik Darjah Pembelajaran Luar Bilik Darjah (PLBD) ialah aktiviti luar bilik darjah yang terancang dan berstruktur yang berpusatkan murid. Aktiviti ini, bertujuan menyokong dan mengukuhkan pelaksanaan kurikulum sekolah yang merangkumi
+
+14
+
+KSSM SEJARAH TINGKATAN 1
+
+persekitaran pembelajaran yang progresif. PLBD memberikan pengalaman pembelajaran dalam situasi yang sebenar, bermakna dan menyeronokkan. Selain itu, PLBD boleh mengembangkan kemahiran sosial dan kerja berpasukan murid. Sebagai contoh, membawa murid melawat tempattempat seperti muzium atau tempat bersejarah. Tujuannya ialah untuk membuat lawatan sambil belajar. Di sini, setiap murid akan cuba mengaitkan di antara pengalaman sebenar dengan peristiwa-peristiwa sejarah yang dipelajari dalam bilik darjah.
+Belajar Cara Belajar Belajar cara belajar ialah suatu proses untuk memperoleh teknik belajar sama ada bersama guru atau tanpa guru. Pendekatan ini bertujuan untuk menyediakan murid yang berupaya belajar sendiri, menggunakan pengetahuan sedia ada, rakan-rakan dan bahan lain sebagai sumber pembelajaran. Pendekatan ini membolehkan murid membuat refleksi dan menilai tahap pembelajaran sendiri serta mampu mengaplikasi pengetahuan dan kemahiran dalam situasi yang berlainan.
+
+Pembelajaran Masteri Pembelajaran masteri merujuk kepada pendekatan PdP bagi memastikan murid menguasai hasil pembelajaran yang dihasratkan dalam suatu unit pembelajaran sebelum berpindah ke unit pembelajaran seterusnya. Pendekatan ini digunakan kerana murid mempunyai kebolehan dan keperluan yang berbeza dalam pembelajaran. Pendekatan ini memerlukan peruntukan masa yang mencukupi serta proses PdP yang berkualiti. Sebagai contoh, kaedah ini dilaksanakan dengan membahagikan tajuk- tajuk yang besar kepada babbab atau unit-unit yang kecil yang mempunyai objektifnya yang tersendiri bagi memudahkan murid menguasai isi pelajaran sebelum beralih kepada tajuk yang seterusnya.
+Pembelajaran Akses Kendiri Pembelajaran Akses Kendiri (PAK) ialah pendekatan yang membolehkan murid belajar secara kendiri melalui penggunaan bahan pembelajaran. Murid diberi peluang memilih aktiviti, menilai hasil kerja dan memantau kemajuan mereka sendiri agar mereka bertanggungjawab dan berdikari atas pembelajaran mereka. Dalam program PAK, bahan pembelajaran direka dan diuruskan supaya murid belajar mengikut minat, keperluan, tahap kemampuan dan gaya pembelajaran mereka. Murid juga boleh mengetahui maklum
+
+15
+
+KSSM SEJARAH TINGKATAN 1
+
+balas pencapaian mereka kerana program PAK menyediakan pentaksiran kendiri.
+Pembelajaran Secara Kontekstual Pembelajaran kontekstual ialah kaedah pembelajaran yang menggabungkan isi kandungan dengan pengalaman harian individu, masyarakat dan persekitaran. Kaedah ini menyediakan pembelajaran secara konkrit yang melibatkan aktiviti hands-on dan minds-on. Dalam pembelajaran Sejarah, murid membina persekitaran pembelajaran melalui proses pengalaman, penemuan, pengukuhan dan menghubungkaitkan persekitaran dengan peristiwa sejarah yang dipelajari.
+Pembelajaran Secara Kontruktivisme Kontruktivisme ialah suatu kaedah pembelajaran yang menggalakkan murid membina sendiri pengetahuan atau konsep secara aktif berdasarkan pengetahuan sejarah dan pengalaman sedia ada. Dalam proses ini, murid akan menyesuaikan ilmu pengetahuan yang diterima dengan pengetahuan sedia ada untuk membina pengetahuan baru. Guru sebagai pembimbing perlu membantu proses ini dengan menggunakan strategi dan kaedah pengajaran yang menggalakkan murid untuk membuat analisis, tafsiran dan
+
+amalan kendiri. Guru harus mendorong proses pembelajaran murid dengan mengemukakan soalan-soalan terbuka dan sering mengadakan perbincangan kumpulan dalam kalangan murid.
+Aplikasi Teori Kecerdasan Pelbagai Teori Kecerdasan Pelbagai (TKP) merupakan suatu pendekatan PdP yang berasaskan kecerdasan murid yang pelbagai. TKP terdiri daripada lapan jenis kecerdasan iaitu verbal-linguistik, logik-matematik, visual-ruang, kinestetik, muzik, interpersonal, intrapersonal dan naturalis. Melalui pendekatan ini, guru dapat mengenal pasti persamaan dan perbezaan keupayaan individu murid yang unik. Mereka belajar dan dinilai dengan cara yang berlainan bagi meningkatkan kecerdasan dan potensi yang tidak terbatas bagi membantu murid menyelesaikan masalah yang dihadapi dalam kehidupan sebenar .
+Penggunaan Teknologi Maklumat dan Komunikasi Teknologi Maklumat dan Komunikasi (TMK) dalam PdP bermaksud menggunakan TMK secara berfikrah, terancang dan bersesuaian dengan keperluan pembelajaran bagi meningkatkan kefahaman dan penguasaan murid terhadap pelajaran. Penggunaan TMK juga memberi peluang
+
+16
+
+pembelajaran yang sama kepada semua murid yang pelbagai keupayaan bagi meningkatkan motivasi diri, di samping membolehkan murid mengamalkan pembelajaran kendiri.
+Aplikasi Teknik Theory of Constraints. Teknik Theory of Constraints (TOC) ialah cara pengajaran dan pembelajaran berasaskan pemikiran yang logik dan sistematik. Proses ini menggunakan teknik pemikiran kritis dan kreatif yang mudah dan konkrit. Teknik ini membolehkan murid menggunakan alat dan teknik berfikir dalam pembelajaran mereka. Aplikasi teknik ini mampu untuk melibatkan murid secara pembelajaran kolaboratif iaitu bersesuaian dengan konsep pembelajaran berpusatkan murid. Ini menyediakan mereka dengan kemahiran bagi mencapai matlamat, menyelesaikan masalah dengan berkesan, membuat keputusan, berkomunikasi dan dapat diaplikasikan dalam kehidupan seharian. Dalam pembelajaran Sejarah, kaedah ini dapat membantu murid membuat andaian dan pertimbangan mengenai peristiwa sejarah berdasarkan fakta yang tepat iaitu melalui pentarikhan serta bukti sebenar sesuatu peristiwa sejarah.
+
+KSSM SEJARAH TINGKATAN 1
+Teknik Belajar Sambil Bermain Belajar sambil bermain ialah satu pendekatan yang terancang dan berstruktur bagi memberi peluang kepada murid belajar dalam suasana yang bebas dan selamat, menggembirakan dan bermakna. Teknik ini memerlukan perancangan rapi supaya pembelajaran mempunyai unsur seperti:
+i. bermain secara terancang; ii. bermain secara berstruktur; iii. bermain secara fleksibel; iv. memenuhi keperluan kognitif, psikomotor dan afektif.
+
+17
+
+ELEMEN MERENTAS KURIKULUM
+Elemen Merentas Kurikulum (EMK) ialah unsur nilai tambah yang diterapkan dalam proses PdP selain yang ditetapkan dalam standard kandungan. Elemen-elemen ini diterapkan bertujuan mengukuhkan kemahiran dan keterampilan modal insan yang dihasratkan serta dapat menangani cabaran semasa dan masa hadapan. Elemen-elemen dalam EMK adalah seperti berikut:
+1. Bahasa  Penggunaan bahasa pengantar yang betul perlu dititikberatkan dalam semua mata pelajaran.  Semasa PdP bagi setiap mata pelajaran, aspek sebutan, struktur ayat, tatabahasa, istilah dan laras bahasa perlu diberi penekanan bagi membantu murid menyusun idea dan berkomunikasi secara berkesan.
+2. Kelestarian Alam Sekitar  Kesedaran mencintai dan menyayangi alam sekitar dalam jiwa murid perlu dipupuk melalui PdP semua mata pelajaran.
+
+KSSM SEJARAH TINGKATAN 1
+ Pengetahuan dan kesedaran terhadap alam sekitar dan kelestraian global dalam membentuk etika murid untuk menghargai alam dan kehidupan.
+3. Nilai Murni  Nilai murni diberi penekanan dalam semua mata pelajaran supaya murid sedar akan kepentingan dan mengamalkannya.  Nilai murni merangkumi aspek kerohanian, kemanusiaan dan kewarganegaraan kebangsaan dan global yang menjadi amalan dalam kehidupan harian.
+4. Sains dan Teknologi  Menambahkan minat terhadap Sains dan Teknologi dapat meningkatkan literasi sains serta teknologi dalam kalangan murid.  Penggunaan teknologi dalam pengajaran dapat membantu serta menyumbang kepada pembelajaran yang lebih cekap dan berkesan.
+
+18
+
+ Pengintegrasian Sains dan Teknologi dalam PdP merangkumi empat perkara iaitu: (i) Pengetahuan Sains dan Teknologi (fakta, prinsip, konsep yang berkaitan dengan sains dan teknologi). (ii) Kemahiran saintifik (proses pemikiran dan kemahiran manipulatif tertentu). (iii) Sikap saintifik (seperti ketepatan, kejujuran, keselamatan). (iv) Penggunaan teknologi dalam aktiviti PdP.
+5. Patriotisme  Semangat patriotik dapat dipupuk melalui semua mata pelajaran, aktiviti kokurikulum dan khidmat masyarakat.  Semangat patriotik dapat melahirkan murid yang mempunyai semangat cintakan negara dan berbangga sebagai rakyat Malaysia.
+6. Kreativiti dan Inovasi  Kreativiti adalah kebolehan menggunakan imaginasi untuk mengumpul, mencerna dan menjana idea atau mencipta sesuatu yang baharu
+
+KSSM SEJARAH TINGKATAN 1
+atau asli melalui ilham atau gabungan idea yang ada.  Inovasi merupakan pengaplikasian kreativiti melalui ubah suaian, membaiki dan mempraktikkan idea.  Kreativiti dan Inovasi saling bergandingan dan perlu untuk memastikan pembangunan modal insan yang mampu menghadapi cabaran abad ke-21.  Elemen Kreativiti dan Inovasi perlu diintegrasikan dalam PdP.
+7. Keusahawanan  Penerapan Elemen Keusahawanan bertujuan membentuk ciri-ciri dan amalan keusahawanan sehingga menjadi satu budaya dalam kalangan murid.  Ciri keusahawanan boleh diterapkan dalam PdP melalui aktiviti yang mampu memupuk sikap seperti rajin, jujur, amanah dan bertanggungjawab serta membangunkan minda kreatif dan inovatif untuk memacu idea ke pasaran.
+
+19
+
+8. Teknologi Maklumat dan Komunikasi  Penerapan elemen TMK dalam PdP memastikan murid dapat mengaplikasi dan mengukuhkan pengetahuan dan kemahiran asas TMK yang dipelajari.  Pengaplikasian TMK bukan sahaja mendorong murid menjadi kreatif malah menjadikan PdP lebih menarik dan menyeronokkan serta meningkatkan kualiti pembelajaran.  TMK diintegrasikan mengikut kesesuaian topik yang hendak diajar dan sebagai pengupaya bagi meningkatkan lagi kefahaman murid terhadap kandungan mata pelajaran.
+
+KSSM SEJARAH TINGKATAN 1
+
+20
+
+PENTAKSIRAN
+Pentaksiran adalah satu proses yang berterusan dan dijadikan sebahagian daripada PdP. Dalam pentaksiran, guru boleh menggunakan pelbagai kaedah untuk mendapatkan maklumat. Hasil pentaksiran terhadap murid membolehkan guru mengambil tindakan susulan yang berkesan dan seterusnya membantu guru memperkembangkan potensi murid.
+Pentaksiran dirancang, dibina, ditadbir, diperiksa, direkod dan dilapor oleh guru di sekolah yang melibatkan murid, ibu bapa dan organisasi luar. Pentaksiran yang dijalankan di peringkat sekolah dilaksana dalam bentuk pentaksiran formatif dan dijalankan seiring dengan proses PdP.
+Pentaksiran sumatif pula dilaksana di akhir unit pembelajaran, semester atau tahun. Pentaksiran dilakukan secara berterusan semasa proses PdP melalui pelbagai cara. Antaranya ialah pemerhatian, kerja kursus, kajian kes,membina buku skrap dan folio, membuat demontrasi, simulasi, kuiz, dan ujian bertulis.
+
+KSSM SEJARAH TINGKATAN 1
+Pentaksiran Sekolah Pentaksiran sekolah (PS) adalah komponen utama dalam proses PdP kerana berperanan mengukuhkan pembelajaran murid, meningkatkan pengajaran guru serta mampu memberi maklumat yang sah tentang apa yang telah dilaksanakan atau dicapai dalam satu-satu proses PdP.
+PS dilaksanakan oleh guru dan pihak sekolah sepenuhnya bermula daripada aspek perancangan, pembinaan item dan instrumen pentaksiran, pentadbiran, peperiksaan atau penskoran, perekodan dan pelaporannya.
+PS amat penting untuk menentukan keberkesanan guru dan pihak sekolah dalam usaha menghasilkan insan yang harmoni dan seimbang. PS merupakan aktiviti yang berterusan yang menagih komitmen yang tinggi serta hala tuju yang jelas daripada guru dan pihak sekolah untuk memperkembangkan potensi setiap murid ke tahap maksimum
+
+21
+
+KSSM SEJARAH TINGKATAN 1
+
+Tujuan Pentaksiran Sesuai dengan matlamat Falsafah Pendidikan Kebangsaan, aspek pentaksiran telah dikaji semula. Dalam pentaksiran, aspek yang diberi penekanan penting ialah dari segi perkembangan jasmani, emosi, rohani dan intelek murid. Oleh itu, guru perlu mengubahsuai kaedah dan cara pentaksiran prestasi murid.
+
+Sejarah melibatkan penyelidikan dan inkuiri. Penyelidikan memberi ruang yang luas kepada murid untuk menganalisis, merumus dan menilai fakta-fakta sejarah secara rasional. Hal ini dapat direalisasikan melalui satu sistem pentaksiran yang baik dan terancang. Dalam membuat pentaksiran, guru harus mengambil kira kepelbagaian tahap kecerdasan murid.
+
+Pentaksiran dalam mata pelajaran Sejarah dapat merangsang pemikiran murid. Selain menguji murid mengenai fakta, tarikh dan definisi, guru menguji murid aspek kognitif yang lebih tinggi seperti menganalisis, mensintesis dan membuat penilaian yang berterusan mengikut pentaksiran terkini.
+Mata pelajaran ini membolehkan murid melihat secara empati dan menganalisis bagaimana manusia menggunakan masa, ruang, perubahan dan kesinambungan. Pemahaman Sejarah pula dalam konteks PdP bermaksud memahami secara kritis dan imaginatif tentang segala aspek kehidupan manusia masa silam dan kini. Pemahaman ini boleh diperoleh jika kesemua aspek dikaji dan dianalisis.
+
+Jenis-Jenis Pentaksiran Pentaksiran Formatif Pentaksiran formatif bertujuan untuk mengesan perkembangan pembelajaran murid secara berterusan. Pentaksiran ini dijalankan pada setiap kali PdP berdasarkan tahap penguasaan dalam standard prestasi. Hasil pentaksiran direkodkan oleh guru bagi menunjukkan murid sudah menguasai pengetahuan, kemahiran dan nilai. Hasil pentaksiran itu boleh digunakan untuk merancang langkah-langkah tertentu dalam pengajaran berikutnya seperti teknik pemulihan, teknik pengayaan dan sebagainya.
+Pentaksiran Sumatif Pentaksiran ini dijalankan untuk mengetahui tahap pencapaian murid secara keseluruhan dalam satu tempoh
+
+22
+
+KSSM SEJARAH TINGKATAN 1
+
+yang ditetapkan. Pentaksiran ini dijalankan secara berkala seperti ujian bulanan, peperiksaan penggal dan tahunan mengikut arahan pihak sekolah. Hasil pentaksiran direkod, dianalisis dan dijadikan asas dalam merancang PdP serta program peningkatan prestasi murid seterusnya.
+Pernyataan Umum Tafsiran Tahap Penguasaan Mata Pelajaran Sejarah Bagi menentukan Tahap Penguasaan murid dalam mata pelajaran Sejarah secara keseluruhan, guru boleh merujuk kepada pernyataan umum dan pernyataan khusus bagi setiap standard kandungan dan standard pembelajaran bagi setiap kelompok Tahap Penguasaan mata pelajaran Sejarah. Tahap Penguasaan ialah kriteria pencapaian yang berasaskan setiap kelompok standard kandungan dan standard pembelajaran yang ditetapkan untuk menunjukkan tanda aras tertentu yang disusun secara hierarki digunakan bagi tujuan pelaporan individu. Guru perlu merujuk kepada Standard Prestasi (SPi) yang mengandungi tahap penguasaan dan tafsiran untuk setiap kelompok dalam menentukan tahap penguasaan murid.
+Guru boleh mentafsir murid secara menyeluruh apabila murid telah melengkapkan proses PdP bagi sesuatu tahun
+
+pembelajaran melalui pertimbangan profesional guru berdasarkan tafsiran umum mata pelajaran Sejarah. Guru boleh membuat pertimbangan profesional untuk menentukan tahap penguasaan keseluruhan murid berdasarkan pengalaman bersama-sama murid, kebijaksanaan guru, serta melalui perbincangan rakan sejawat. Berikut adalah tafsiran umum tahap penguasaan bagi mata pelajaran Sejarah seperti dalam Jadual 5.
+
+Jadual 5: Tahap Penguasaan dan Tafsiran Mata Pelajaran Sejarah
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+1 Mengetahui perkara asas berdasarkan ilmu sejarah dan nilai yang dipelajari.
+
+2 Memahami perkara asas berdasarkan ilmu sejarah dan nilai yang dipelajari.
+
+3 Menggunakan perkara asas berdasarkan ilmu sejarah dan nilai yang dipelajari.
+
+Menganalisis pengetahuan dan kemahiran
+
+4
+
+berdasarkan ilmu sejarah dan nilai yang
+
+dipelajari.
+
+5 Membuat penilaian berdasarkan ilmu sejarah dan nilai yang dipelajari.
+
+6 Melahirkan idea berdasarkan ilmu sejarah dan nilai yang dipelajari.
+
+23
+
+Rubrik Pengesanan Mengikut Tahap Penguasaan Rubrik pengesanan ini pula, adalah panduan kepada guru untuk melaksanakan pentaksiran berdasarkan standard prestasi bagi setiap kelompok standard kandungan dan standard pembelajaran seperti dalam Jadual 6
+
+Jadual 6: Rubrik Tahap Penguasaan Mata Pelajaran Sejarah
+
+Tahap Penguasaan
+1
+2
+3
+
+Pernyataan
+Mengetahui perkara asas / elemen asas
+Memahami perkara asas/ elemen asas
+Menggunakan perkara asas / eleman asas
+
+Kata Kunci
+Menguji / mengesan kebolehan murid mengingati semula
+Tahu jawapan berdasarkan hafalan,
+menyenaraikan, menamakan, menyatakan
+Menguji / mengesan kebolehan kognitif murid yang melibatkan pengetahuan tanpa situasi baru
+Menjelaskan, menerangkan
+Menguji / mengesan kebolehan kemahiran murid menggunakan pengetahuan untuk memberi penjelasan bagi suatu situasi atau perkara baharu
+Menunjuk cara, menggunakan, menggambarkan, , memberi contoh, melengkapkan.
+
+24
+
+KSSM SEJARAH TINGKATAN 1
+
+Tahap Penguasaan
+4
+5
+6
+
+Pernyataan
+Melaksanakan perkara secara sistematik dan ringkas
+Membuat penilaian
+Melahirkan idea
+
+Kata Kunci
+Menguji / mengesan kebolehan murid mencerakin atau mengumpul maklumat bagi memberi gambaran tentang peristiwa atau fakta sejarah Menganalisis, membezakan, membandingkan , mengkategorikan, mengkelaskan Menguji / mengesan kebolehan murid membuat pertimbangan dan keputusan mengunakan pengetahuan, pengalaman, kemahiran dan nilai serta memberi justifikasi Membahas, menafsir, membuat kesimpulan , menilai, membincangkan, merumus
+Menguji / mengesan kebolehan murid merancang, mereka (mencipta), bagi menghasilkan sesuatu perkara atau idea yang kreatif dengan menggabungkan pelbagai elemen
+Mencipta, mereka bentuk, meramal, merancang, membina, mengimaginasi, mencadangkan, menjana, menyusun semula, menggabungkan, menghasilkan
+
+KSSM SEJARAH TINGKATAN 1
+
+ORGANISASI KANDUNGAN
+Organisasi kandungan mata pelajaran Sejarah sekolah menengah adalah kesinambungan daripada KSSR. Penyusunan isi kandungan sejarah adalah berdasarkan rentetan peristiwa mengikut kronologi. Kurikulum Sejarah di peringkat sekolah menengah dibincangkan secara mendalam dengan memberi tumpuan kepada pemahaman yang menyeluruh tentang sejarah negara kita.
+Pemilihan beberapa aspek sejarah dunia yang berkaitan dengan negara kita turut dipelajari. Justeru, pendekatan isi kandungan Sejarah ini melahirkan murid yang menghayati peristiwa sejarah negara secara empati dan bersemangat patriotik.
+
+Jadual 7: Pemetaan Kandungan Sejarah Tingkatan 1
+
+TEMA
+
+STANDARD KANDUNGAN
+
+Pengenalan Ilmu sejarah
+
+Zaman Air Batu
+
+Zaman Prasejarah
+
+Sejarah Kita dan Dunia
+
+Tamadun Dunia dan Sumbangannya
+ Tamadun Awal Dunia dan Sumbangannya
+ Peningkatan Tamadun dan Sumbangannya
+ Tamadun Islam dan Sumbangannya
+
+Organisasi Kandungan Kurikulum Sejarah Tingkatan 1
+Kandungan Sejarah Tingkatan satu telah disusun bermula dari pengenalan ilmu sejarah. Pengetahuan dan pemahaman tentang sejarah negara dipelajari dan dikaji secara kronologi bermula dari Zaman Air Batu. Sejarah dunia dipelajari untuk melihat perkaitan dengan sejarah negara yang mencakupi beberapa tajuk seperti dalam Jadual 7.
+
+Standard Kandungan dan Standard Pembelajaran mengandungi perkara-perkara yang patut dipelajari dan perlu disampaikan dalam proses PdP. Standard Prestasi pula mengandungi panduan untuk mentaksir pencapaian murid mengikut tahap-tahap pencapaian seperti yang dihasratkan. Dokumen Standard Kurikulum dan Pentaksiran mengintegrasikan kurikulum dan pentaksiran sekolah dalam satu dokumen. Maksud penulisan standard dalam dokumen ini berdasarkan pecahan seperti dalam Jadual 8.
+
+25
+
+Jadual 8: Organisasi Kandungan
+
+STANDARD KANDUNGAN
+Pernyataan spesifik tentang perkara yang murid patut ketahui dan boleh lakukan dalam suatu tempoh persekolahan merangkumi aspek pengetahuan, kemahiran dan nilai.
+
+STANDARD PEMBELAJARAN
+Suatu penetapan kriteria atau indikator kualiti pembelajaran dan pencapaian yang boleh diukur bagi setiap standard kandungan.
+
+STANDARD PRESTASI
+Suatu set kriteria umum yang menunjukkan tahap-tahap prestasi yang perlu murid pamerkan sebagai tanda bahawa sesuatu perkara itu telah dikuasai murid (indicator of success).
+
+Panduan Penggunaan Dokumen Standard Kurikulum Dan Pentaksiran Mata Pelajaran Sejarah.
+Dokumen Standard Kurikulum dan Pentaksiran mata pelajaran Sejarah Tingkatan Satu ini disediakan untuk membantu guru merancang aktiviti dan menghasilkan bahan pengajaran yang sesuai dengan tahap kematangan murid di samping menyediakan penerangan untuk membantu guru melaksanakan kurikulum Sejarah semasa dalam bilik darjah dengan berkesan.
+
+KSSM SEJARAH TINGKATAN 1
+Dokumen Standard Kurikulum dan Pentaksiran mata pelajaran Sejarah mengandungi Standard Kandungan, Standard Pembelajaran dan Standard Prestasi yang merangkumi Tahap Penguasaan serta Tafsiran Tahap Penguasaan.
+Setiap tajuk yang terdapat dalam Standard Kandungan diterjemahkan dalam Standard Pembelajaran. Murid perlu menguasai setiap Sandard Pembelajaran bagi memastikan murid dapat memahami Standard Kandungan. Manakala Standard Prestasi pula mengandungi tahap-tahap prestasi yang perlu murid pamerkan sebagai petunjuk bahawa sesuatu perkara itu telah dikuasai.
+
+26
+
+KSSM SEJARAH TINGKATAN 1
+
+Dokumen Standard Kurikulum dan Pentaksiran mata pelajaran Sejarah menggunakan format tiga lajur utama seperti dalam
+
+Rajah 3.
+
+LAJUR 2 Standard pembelajaran
+
+LAJUR 3 Tahap penguasaan
+(TP)
+
+LAJUR 1 Standard Kandungan
+
+Rajah 3: Penerangan format tiga lajur dalam DSKP KSSM Sejarah tingkatan 1
+27
+
+KSSM SEJARAH TINGKATAN 1
+TEMA: SEJARAH KITA DAN DUNIA TAJUK 1: PENGENALAN ILMU SEJARAH
+
+Tajuk ini adalah pengenalan kepada disiplin ilmu Sejarah. Tumpuan adalah kepada penguasaan pengetahuan dan kemahiran sejarah yang mencakupi pengertian, konsep masa, sumber, kaedah, pentafsiran dan kepentingan sejarah. Seterusnya murid dapat memahami serta mengaplikasikan Kemahiran Pemikiran Sejarah dalam kehidupan seharian. Murid juga dibimbing untuk menghubungkaitkan pengetahuan sejarah dalam membina identiti diri melalui penguasaan Elemen Kewarganegaraan Dan Nilai Sivik.
+
+Pengenalan
+Pengenalan Ilmu Sejarah
+
+Fokus
+Konsep Ilmu Sejarah
+ Pengertian  Konsep masa  Sumber  Kaedah  Pentafsiran
+sejarah  Kepentingan
+sejarah
+
+Empati
+ Berilmu dan berketerampilan  Menghargai masa  Menghubungkaitkan dengan
+kehidupan manusia  Menghayati peristiwa sejarah  Bersyukur sebagai warganegara
+Malaysia
+
+28
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+
+1.0 : PENGENALAN ILMU SEJARAH
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+1.1 Pengenalan Ilmu Sejarah
+
+Murid boleh:
+
+1.1.1 1.1.2
+1.1.3 1.1.4 1.1.5 1.1.6 1.1.7
+
+Menyatakan pengertian sejarah secara umum. Menjelaskan pengertian sejarah mengikut pandangan sejarawan seperti Herodotus, E.H Carr, Ibn Khaldun, dan Mohd.Yusuf Ibrahim. Menghuraikan konsep masa silam dan ruang dalam sejarah. Membincangkan sumber sejarah. Menjelaskan kaedah penyelidikan sejarah. Menjelaskan pentafsiran sejarah. Membincangkan kepentingan mempelajari sejarah.
+
+K1.1.8 K1.1.9 K1.1.10 K1.1.11
+
+Menjelaskan kepentingan menghargai masa dalam kehidupan seharian. Merumuskan kepentingan menghargai peristiwa sejarah negara kita. Menjana idea cara memelihara warisan negara kita. Menerangkan kepentingan mengaplikasikan ilmu Sejarah dalam kehidupan.
+
+1 Mengetahui pengenalan ilmu Sejarah.
+2 Memahami pengenalan ilmu Sejarah.
+3 Mengaplikasikan pengetahuan pengenalan ilmu Sejarah.
+4 Menganalisis maklumat pengenalan ilmu Sejarah.
+5 Membuat penilaian tentang pengenalan ilmu Sejarah.
+
+Melahirkan idea yang rasional
+
+6
+
+tentang pengenalan ilmu
+
+Sejarah.
+
+29
+
+KSSM SEJARAH TINGKATAN 1
+
+TEMA: SEJARAH KITA DAN DUNIA
+TAJUK 2 : ZAMAN AIR BATU
+Tajuk ini menjelaskan tentang Zaman Air Batu iaitu Miosen (Miocene), Pliosen, Plestosen dan Holosen yang membawa kepada pembentukan muka bumi dunia (Asia Tenggara dan Malaysia). Seterusnya murid dapat menerangkan hubungan antara ilmu geografi dengan sejarah bagi memupuk semangat jati diri, cinta negara dan menghargai alam sekitar.
+
+Pengenalan Zaman Air Batu
+
+Fokus
+ Perubahan Zaman Air Batu
+ Pembentukan muka bumi dunia
+
+Empati
+ Memahami perubahan alam sekitar
+ Memupuk kesedaran memelihara dan memulihara alam sekitar
+ Mengukuhkan semangat jati diri dalam kalangan murid
+ Mensyukuri anugerah Tuhan terhadap kedudukan geografi Malaysia
+
+30
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+
+2.0 : ZAMAN AIR BATU
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+2.1 Zaman Air Batu
+
+Murid boleh:
+
+2.1.1 2.1.2 2.1.3 2.1.4
+2.1.5
+2.1.6
+
+Mengenali dunia kita. Menyenaraikan Zaman Air Batu. Membina garis masa Zaman Air Batu. Menjelaskan ciri-ciri Zaman Air Batu akhir. Membincangkan perubahan Zaman Air Batu. Menilai kesan perubahan di Asia Tenggara.
+
+1
+
+Mengetahui Zaman Air Batu.
+
+2
+
+Memahami Zaman Air Batu.
+
+Menggunakan pengetahuan Zaman Air
+
+3
+
+Batu untuk memahami proses
+
+pembentukan dunia.
+
+K2.1.7 Menjelaskan kepentingan bersyukur dengan alam ciptaan Tuhan.
+
+4 Menganalisis maklumat yang berkaitan dengan Zaman Air Batu.
+
+K2.1.8 Menyatakan kepentingan sikap yang
+
+perlu diamalkan dalam menjaga alam sekitar.
+
+5 Membuat penilaian tentang Zaman Air
+
+K2.1.9 Menghubungkait kepentingan masa lalu,
+
+Batu.
+
+kini dan hadapan dalam kehidupan.
+
+K2.1.10 Menjelaskan kepentingan usaha-usaha
+
+untuk memelihara dan memulihara alam
+
+6
+
+Melahirkan idea yang rasional tentang
+
+sekitar.
+
+Zaman Air Batu.
+
+31
+
+KSSM SEJARAH TINGKATAN 1
+
+TEMA: SEJARAH KITA DAN DUNIA TAJUK 3 : ZAMAN PRASEJARAH
+
+Tajuk ini membincangkan tentang zaman Prasejarah mengikut garis masa yang merangkumi Dunia, Asia Tenggara dan Malaysia. Tumpuan pengetahuan adalah kepada lokasi, ciri kehidupan dan kreativiti masyarakat dalam zaman Paleolitik, Mesolitik, Neolitik dan Logam. Pemahaman ini dapat melahirkan murid yang berani, kreatif, inovatif dan memupuk semangat jati diri serta menghargai warisan Prasejarah.
+
+Pengenalan Zaman Prasejarah
+
+Fokus
+Zaman Prasejarah di Asia Tenggara dan Malaysia merangkumi
+ tempoh masa  lokasi  ciri-ciri kehidupan  bukti penemuan
+
+Empati
+ Kebijaksanaan, kreativiti dan inovasi masyarakat.
+ Menghargai kegigihan masyarakat Prasejarah
+ Bersyukur dengan kurniaan Tuhan.
+
+32
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+3.1 Zaman Prasejarah
+
+3.0 : ZAMAN PRASEJARAH
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+Murid boleh:
+
+3.1.1 3.1.2 3.1.3
+3.1.4
+3.1.5
+
+Menyatakan maksud Zaman Prasejarah. Menerangkan lokasi Zaman Prasejarah. Membandingkan ciri- ciri kehidupan pada Zaman Prasejarah. Menyatakan kesinambungan sumbangan Zaman Prasejarah kepada kemajuan kehidupan manusia. Membincangkan bukti tinggalan Zaman Prasejarah di Malaysia.
+
+1
+
+Mengetahui Zaman Prasejarah.
+
+2
+
+Memahami Zaman Prasejarah.
+
+3 Menerangkan dengan contoh tentang Zaman Prasejarah.
+
+K3.1.6 K3.1.7 K3.1.8 K3.1.9
+
+Menjelaskan keupayaan manusia Prasejarah meneruskan kelangsungan hidup. Mencadangkan kepentingan memelihara dan memulihara tinggalan Zaman Prasejarah. Menjelaskan penghargaan terhadap kemajuan dalam masyarakat Zaman Prasejarah. Mewajarkan kepentingan bersyukur dalam memanfaatkan alam ciptaanTuhan.
+
+4 Menganalisis maklumat yang berkaitan Zaman Prasejarah.
+5 Membuat penilaian tentang Zaman Prasejarah.
+6 Melahirkan idea yang rasional mengenai Zaman Prasejarah.
+
+33
+
+KSSM SEJARAH TINGKATAN 1
+
+TEMA: SEJARAH KITA DAN DUNIA
+TAJUK 4 : TAMADUN DUNIA DAN SUMBANGANNYA
+Tajuk ini membincangkan perkembangan tamadun mengikut garis masa bermula dengan kemunculan tamadun awal dunia, peningkatan tamadun dan tamadun Islam serta sumbangannya dalam kehidupan manusia. Tema ini juga menekankan penguasaan pengetahuan tentang konsep dan ciri-ciri tamadun. Pemahaman ini melahirkan murid yang bercita-cita tinggi, kreatif, inovatif, dan mampu berdaya saing dalam memartabatkan identiti bangsa di peringkat global.
+
+Pengenalan
+Tamadun Dunia dan sumbangannya.
+
+Fokus
+ Tamadun Awal Dunia dan sumbangannya
+ Peningkatan Tamadun dan sumbangannya
+ Tamadun Islam dan sumbangannya
+
+Empati
+ Semangat kekitaan dalam zaman globalisasi
+ Berilmu dan berketerampilan
+ Keterlibatan diri dalam pembangunan negara
+ Keterikatan emosi kepada negara
+
+34
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+
+4.0 : TAMADUN DUNIA DAN SUMBANGANNYA
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+4.1 Tamadun Awal Dunia dan Sumbangannya
+
+Murid boleh:
+
+4.1.1
+4.1.2 4.1.3 4.1.4 4.1.5
+
+Menyatakan maksud tamadun mengikut bahasa Yunani, bahasa Inggeris dan bahasa Arab. Menerangkan konsep tamadun mengikut Barat dan Islam. Menjelaskan ciri-ciri tamadun awal dunia. Membincangkan empat lokasi pembentukan tamadun awal dunia. Membandingkan sumbangan tamadun awal dunia.
+
+K4.1.6 K4.1.7 K4.1.8 K4.1.9
+
+Menerangkan kepentingan kepimpinan dalam pembinaan sesuatu tamadun. Menerangkan nilai yang boleh dipelajari dari sumbangan tamadun awal Menjelaskan keperluan menghargai sumbangan tamadun awal dunia dalam kehidupan manusia. Membincangkan kepentingan sumbangan tamadun awal dunia sebagai pencetus inovasi.
+
+1
+
+Mengetahui tamadun awal dunia.
+
+2
+
+Memahami tamadun awal dunia.
+
+3 Menerangkan dengan contoh tentang tamadun awal dunia.
+
+Menganalisis maklumat yang
+
+4
+
+berkaitan dengan tamadun awal
+
+dunia.
+
+5 Membuat penilaian tamadun awal dunia.
+
+6 Melahirkan idea yang berasas mengenai tamadun awal dunia.
+
+35
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+4.2 Peningkatan Tamadun dan Sumbangannya
+
+4.0 : TAMADUN DUNIA DAN SUMBANGANNYA
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAFSIRAN
+
+Murid boleh:
+
+4.2.1 4.2.2
+4.2.3 4.2.4 4.2.5
+
+Mengenal pasti empat lokasi peningkatan tamadun. Membincangkan peningkatan tamadun Yunani dalam aspek pemerintahan dan pentadbiran. Membincangkan peningkatan tamadun Rom dari aspek seni bina. Membincangkan peningkatan tamadun India dari aspek perluasan kuasa. Membincangkan peningkatan tamadun China dari aspek pendidikan.
+
+K4.2.6 K4.2.7 K4.2.8 K4.2.9
+
+Merumuskan kepentingan pendidikan sebagai agen perubahan kepada kemajuan negara. Menjelaskan kepentingan menghargai asas-asas amalan demokrasi. Membuat kesimpulan tentang kepentingan seni bina sebagai lambang intelektual. Menghuraikan kepentingan kerjasama dalam pembinaan sesuatu tamadun.
+
+1
+
+Mengetahui peningkatan tamadun.
+
+2
+
+Memahami peningkatan tamadun.
+
+3 Menerangkan dengan contoh peningkatan tamadun.
+
+Menganalisis maklumat yang
+
+4
+
+berkaitan dengan peningkatan
+
+tamadun.
+
+5 Membuat penilaian peningkatan tamadun.
+
+6 Melahirkan idea yang berasas mengenai peningkatan tamadun.
+
+36
+
+KSSM SEJARAH TINGKATAN 1
+
+STANDARD KANDUNGAN
+4.3 Tamadun Islam dan Sumbangannya
+
+4.0 : TAMADUN DUNIA DAN SUMBANGANNYA
+
+STANDARD PEMBELAJARAN
+
+STANDARD PRESTASI
+
+TAHAP PENGUASAAN
+
+TAHAP PENGUASAAN
+
+Murid boleh:
+
+1 Mengetahui tamadun Islam.
+
+4.3.1 Menyatakan latar belakang masyarakat
+
+Arab sebelum kedatangan Islam.
+
+4.3.2 Menerangkan kemunculan tamadun Islam 2 Memahami tamadun Islam. dan perkembangannya secara ringkas.
+
+4.3.3 Menjelaskan ketokohan Nabi Muhammad
+
+SAW sebagai pemimpin yang unggul.
+
+Menerangkan dengan contoh
+
+4.3.4 Menganalisis sumbangan tamadun Islam
+
+3
+
+tentang tamadun Islam.
+
+dalam bidang politik, ekonomi dan sosial.
+
+4.3.5
+
+Menganalisis sumbangan tamadun Islam dalam bidang seni bina.
+
+4 Menganalisis maklumat yang berkaitan tamadun Islam.
+
+K4.3.6 Merumuskan kepentingan menghargai
+
+K4.3.7
+
+sumbangan tamadun Islam. Menghuraikan nilai murni sejagat dalam Islam bagi memantapkan jati diri bangsa
+
+5 Membuat penilaian tentang tamadun Islam.
+
+dan negara.
+
+K4.3.8 Membincangkan ciri-ciri kepimpinan Islam
+
+yang boleh diteladani oleh masyarakat. K4.3.9 Menerangkan kepentingan ciri-ciri unik
+
+6 Melahirkan idea yang berasas mengenai tamadun Islam.
+
+dalam seni bina Islam
+
+37
+
+PANDUAN PELAKSANAAN KAJIAN KES
+
+KSSM SEJARAH TINGKATAN 1
+
+MATLAMAT KAJIAN KES
+
+Kajian Kes merupakan proses PdP yang mengkaji sesuatu isu atau persoalan berkaitan dengan tokoh, institusi, tempat dan peristiwa. Kajian ini merupakan aplikasi pengetahuan, kemahiran pemikiran sejarah, kreativiti, Elemen Kewarganegaraan dan Nilai Sivik. Kajian Kes juga dapat memperkembangkan potensi murid ke arah warganegara minda kelas pertama yang mampu bersaing di peringkat global.
+
+5. Memberi kesedaran tentang kepentingan pemeliharaan dan pemuliharaan warisan sejarah negara kita;
+6. Membina kemahiran insaniah agar menjadi warganegara yang berilmu;
+7. Membina semangat patriotisme dalam diri murid; dan 8. Menghasilkan pelbagai bentuk persembahan dan
+dapatan daripada interpretasi kajian kes.
+
+OBJEKTIF KAJIAN KES
+Kajian Kes membolehkan murid:
+1. Mendapat pengalaman bermanfaat semasa menjalankan kajian;
+2. Mengaplikasikan disiplin ilmu sejarah dalam kehidupan seharian;
+3. Membentuk sikap dan tingkah laku murid dalam ruang lingkup peristiwa dan pengalaman lepas;
+4. Menunjukkan sikap bertanggungjawab terhadap agama, bangsa dan negara;
+
+KAJIAN KES
+Kajian Kes adalah kaedah penyelesaian masalah dalam bentuk deskriptif atau penerangan tentang sesuatu isu atau persoalan sama ada berkaitan tokoh, institusi, tempat, peristiwa dan dokumen. Kajian kes bertujuan memberi pengalaman dan kemahiran kepada murid tentang pengetahuan sejarah diri, negara dan bangsa. Kajian kes turut melibatkan aktiviti penyelidikan secara langsung apabila murid didedahkan dengan pelbagai kaedah dan kemahiran seperti pencarian, pengumpulan dan menganalisis maklumat. Murid menghasilkan dapatan kajian yang dijalankan dalam
+
+39
+
+KSSM SEJARAH TINGKATAN 1
+
+pelbagai bentuk seperti kerja projek, pelaporan, pembentangan dan sebagainya. Melalui kajian kes, murid dapat mengaplikasikan disiplin ilmu Sejarah, elemen kewarganegaraan dan nilai sivik serta membangunkan daya kreativiti.
+KAEDAH KAJIAN KES Kajian Kes boleh menggunakan kaedah Inkuiri dan penerokaan yang melibatkan aktiviti pembelajaran seperti membuat pemerhatian, penyelidikan dan eksplorasi sama ada dalam latihan kerja lapangan, kajian bahan dan dokumen. Guru perlu membimbing murid dalam menggunakan kaedah ini supaya pembelajaran yang berkesan dapat dilaksanakan.
+
+PENTAKSIRAN DAN PENILAIAN KAJIAN KES
+Pentaksiran dan Penilaian adalah proses mendapatkan maklumat tentang sejauh mana murid tahu, faham dan boleh buat atau telah menguasai apa yang dipelajari berdasarkan pernyataan standard prestasi yang ditetapkan mengikut tahap-tahap pencapaian seperti yang dihasratkan dalam dokumen kurikulum.
+Kajian Kes ini membolehkan guru membuat pentaksiran secara berterusan semasa proses PdP. Pentaksiran ini juga memerlukan guru membuat perancangan, membina, mentadbir, menilai dan merekod serta melaporkan.
+Pentadbir sekolah boleh mengambil kira peratusan markah daripada kajian kes sebagai sebahagian daripada jumlah keseluruhan markah murid dalam sesuatu peperiksaan. Usaha ini dapat menanam minat murid terhadap mata pelajaran Sejarah dan dalam masa yang sama dapat meningkatkan pencapaian dalam peperiksaan.
+
+40
+
+KSSM SEJARAH TINGKATAN 1
+LANGKAH PELAKSANAAN KAJIAN KES Pelaksanaan Kajian Kes ini melibatkan beberapa langkah yang membabitkan kajian dan penilaian data yang berkaitan isu atau peristiwa sejarah yang timbul seperti Rajah 4 di bawah :
+Rajah 4 : Langkah-langkah Pelaksanaan Kajian Kes
+41
+
+KSSM SEJARAH TINGKATAN 1
+
+Pernyataan Masalah Proses pernyataan masalah dapat membentuk persoalan mengenai tajuk atau tema atau peristiwa yang akan ditinjau secara kontekstual serta lengkap. Pernyataan masalah boleh berbentuk soalan terbuka seperti pernyataan idea, masalah atau hipotesis untuk diuji sebagai tujuan penyelidikan. Maka dengan itu dapat dirumuskan bahawa pernyataan masalah ialah huraian yang melibatkan tajuk dan latar belakang kajian sebagai persoalan utama dalam kajian.
+Kajian Literatur Kajian literatur atau kajian lepas bertujuan untuk memberi pendedahan kepada murid cara mengenal sumber, di samping mendidik murid mengumpul maklumat mengenai tajuk kajian.
+Objektif Kajian Objektif kajian merujuk kepada tujuan sesuatu kajian dijalankan. Objektif kajian juga hendaklah jelas dan konsisten serta boleh dikenal pasti.
+
+Sumber Rujukan Sumber merupakan unsur yang penting dalam membuat penyelidikan Sejarah kerana sumber memberikan maklumat dan bukti yang benar tentang sesuatu peristiwa. Sumber dibahagikan kepada dua iaitu sumber primer dan sumber sekunder.
+Sumber primer ialah sumber yang bersifat asli dan belum ditafsirkan serta belum diolah yang terdiri daripada pelbagai bentuk seperti kertas, fosil, artifak, dokumen dan manuskrip.
+Sumber sekunder ialah terdiri daripada bahan yang dikaji melalui bahan pembacaan yang ditulis dan ditafsir oleh sejarawan. Sumber sekunder merupakan hasil penulisan seperti buku, majalah, artikel atau rencana dan surat khabar.
+
+42
+
+KSSM SEJARAH TINGKATAN 1
+
+Kaedah Kajian Kes Kaedah kajian Kes menjelaskan tatacara bagaimana memperolehi bahan kajain atau mengumpul mklumat untuk memenuhi matlamat objektif kajian. Dalam pelaksanaan kajian kes, guru perlu membimbing murid bagi menentukan kaedah kajian.
+Pelbagai kaedah boleh digunakan bagi membuat penyelidikan Sejarah atau peristiwa Sejarah unuk memperoleh maklumat. Antara kaedah yang boleh digunakan seperti berikut:
+1) Kaedah temubual 2) Kaedah pemerhatian 3) Kaedah perpustakaan 4) Kaedah media
+
+menjawab pernyataan masalah dalam kajiannya. Murid dibimbing untuk mengenal pastti sumber yang tepat dan asli yang boleh dipastikan kebenarannya.
+Laporan Kajian Laporan kajian merupakan hasil kerja murid secara individu atau berkumpulan. Hasil kajian ini juga boleh berbentuk laporan bertulis atau secara lisan (pembentangan). Cadangan laoran juga boleh dibuat dalam bentuk persembahan grafik seperti garis masa, jadual, buku skrap, slaid, power point, rencana, komik, video atau animasi yang mudah difahami. Guru harus memberi panduan kepad murid terhadap format penulisan kajian.
+
+Analisis Data Dalam membuat analisis, guru perlu membimbing murid untuk membuat perancangan penyelesaian. Rancangan penyelesaiannya ini boleh terdiri daripada penetapan tempoh, masa dan strategi penyelesaian masalah kepada murid. Data atau bahan yang diperoleh hendaklah dianalisis untuk
+43
+
+KSSM SEJARAH TINGKATAN 1
+
+Persediaan Guru
+
+
+
+Guru mengenal pasti tema atau tajuk kajian yang akan
+
+dilaksanakan;
+
+
+
+Guru perlu membimbing murid untuk menentukan
+
+skop kajian dan membina soalan yang dapat
+
+mencungkil maklumat tentang tajuk yang dikaji;
+
+
+
+Guru membantu murid dalam membuat perancangan
+
+dan menyusun atur proses kerja berdasarkan senarai
+
+semak yang disediakan;
+
+
+
+Guru berperanan sebagai pemudah cara dalam
+
+melaksanakan kajian;
+
+
+
+Guru membahagikan murid kepada beberapa
+
+kumpulan (dua atau tiga orang satu kumpulan) dan
+
+memastikan setiap ahli dalam kumpulan mengambil
+
+bahagian dalam kajian kes bagi memastikan murid
+
+mengetahui tugasan masing-masing;
+
+
+
+Guru perlu membuat tindakan susulan bagi memantau
+
+hasil kerja murid; dan
+
+
+
+Guru perlu memastikan murid menyiapkan laporan
+
+mengikut masa yang ditetapkan.
+
+44
+
+Kajian Kes: Ringkasan
+
+KSSM SEJARAH TINGKATAN 1
+
+JENIS PENYELIDIKAN
+
+PENGERTIAN
+
+TUJUAN
+
+FOKUS
+
+CIRI
+
+Kajian Kes
+
+Satu kajian secara mendalam tentang sesuatu situasi, isu, subjek, bahagian dokumen, atau peristiwa berdasarkan sumber secara terperinci yang dikumpulkan dalam jangka masa tertentu.
+
+ Mengilustrasi gambaran, menganalisis dan menginterpretasi kehebatan tokoh, keunikan monumen dan situasi/peristiwa melalui keterangan yang diperoleh.
+ Mengenalpasti tingkah laku yang kompleks dalam situasi tertentu.
+ Mempersembahkan dapatan sebenar.
+ Pengesahan dapatan.
+
+ Individu dan situasi tempatan/peristiwa
+ Kejadian/peristiwa yang unik/utama
+ Kes tunggal
+ Fenomena berkaitan:  Tokoh  Komuniti  Pertubuhan  Institusi  Peristiwa  Tempat  Fakta/mitos/lagenda  Monumen
+
+ Data yang mendalam dan perincian dari pelbagai sumber
+ Pemerhatian  Empati  Makna yang boleh
+dipelajari daripada kes khusus
+
+45
+
+KSSM SEJARAH TINGKATAN 1
+CONTOH MODUL PELAKSANAAN KAJIAN KES
+TEMA 4: TAMADUN DUNIA DAN SUMBANGANNYA Pernyataan Masalah: Reka bentuk seni bina Colosseum Tamadun Rom menjadi asas kepada idea pembinaan stadium pada masa kini. Mengambil contoh reka bentuk dan fungsi stadium yang terdapat di Malaysia, buktikan.
+
+KERATAN RENTAS REKA BENTUK COLOSSEUM TAMADUN ROM
+46
+
+STADIUM DI MALAYSIA
+
+Jadual Kerja Pelaksanaan Kajian Kes
+
+STRATEGI GURU
+
+AKTIVITI MURID
+
+Perancangan merangka Perlaksanaan Kajian Kes
+Guru membimbing murid:
+(i) Membina pernyataan masalah
+(ii) Membina objektif kajian
+(iii) Mengenal pasti kaedah kajian yang sesuai
+(iv) Mengenal pasti bentuk laporan kajian
+(v) Menentukan tempoh kajian dijalankan dan proses kerja pelaksanaan kajian kes
+
+Murid diberi pendedahan tentang tajuk kajian kes dan rangka kerja kajian kes.
+
+KSSM SEJARAH TINGKATAN 1
+
+PROSES BERFIKIR
+
+ALAT BERFIKIR
+
+47
+
+KSSM SEJARAH TINGKATAN 1
+
+STRATEGI GURU
+
+AKTIVITI MURID
+
+Langkah 1: Pernyataan masalah:
+Contoh:
+Reka bentuk seni bina Colosseum Tamadun Rom menjadi asas kepada idea pembinaan stadium pada masa kini .
+Mengambil contoh reka bentuk dan fungsi Stadium yang terdapat di Malaysia, buktikan.
+
+Memboleh murid:
+Mengadakan perbincangan dalam kumpulan atau individu berdasarkan pernyataan masalah.
+
+PROSES BERFIKIR
+Mengaplikasi Kemahiran Pemikiran Sejarah (KPS):  Mengumpul
+maklumat  Meneroka bukti
+Kemahiran Inkuiri
+
+ALAT BERFIKIR
+
+Langkah 2: Kajian Literatur
+Guru membimbing murid :
+Boleh menggunakan kaedah perbincangan atau sumbang saran terhadap kajian-kajian terdahulu, rencana penulisan, jurnal atau buku tentang Colosseum atau Stadium.
+
+Membolehkan murid:
+Murid perlu menyediakan bahan atau sumber berkaitan untuk menganalisis data. Jumlah rujukan sekurangkurangnya tiga buah buku.
+
+Mengaplikasi KPS:
+ Mengumpul bahan
+
+48
+
+KSSM SEJARAH TINGKATAN 1
+
+STRATEGI GURU
+Langkah 3: Objektif Kajian
+Guru membimbing murid:
+ Membina sekurang-kurang 3 objektif yang merangkumi aspek pengetahuan,Kemahiran Pemikiran Sejarah (KPS) dan Nilai.
+ Objektif yang dibina harus menjurus terhadap persoalan kajian.
+Contoh soalan untuk membantu murid membina objektif kajian:
+� Senaraikan stadium yang terawal yang dibina di Malaysia?
+� Apakah perbezaan fungsi Colesseum dan stadium pada hari ini.
+� Jelaskan kepentingan peranan generasi muda untuk memelihara stadium di Malaysia
+Nota: membina objektif kajian perlu disesuaikan dengan aras murid dan kelas.
+
+AKTIVITI MURID
+
+PROSES BERFIKIR
+
+Membolehkan murid:
+ Membina objektif kajian yang jelas dan konsisten serta boleh dikenal pasti
+ Merujuk apa yang hendak dicapai dan bagaimana hendak dicapainya.
+ Menjelaskan sesuatu kajian itu dijalankan.
+
+Mengaplikasi KPS:
+ Menganalisis Data
+Kemahiran Inkuiri
+
+Contoh Objektif Kajian:
+
+ Menjelaskan dengan contoh stadium yang terawal dibina di Malaysia. ( Pengetahuan )
+ Mengenalpasti penggunaan dan fungsi stadium. (KPS)
+ Menyenaraikan kepentingan menghargai pembinaan stadium di Malaysia ( Elemen Kewarganegaraan dan Nilai Sivik )
+
+ALAT BERFIKIR
+Contoh: Peta Minda
+
+49
+
+KSSM SEJARAH TINGKATAN 1
+
+STRATEGI GURU
+
+AKTIVITI MURID
+
+PROSES BERFIKIR
+
+Langkah 4: Kaedah Kajian
+Guru membimbing murid :
+ Menentukan pelbagai kaedah kajian
+ Menjelaskan tatacara bagaimana memperolehi bahan kajian atau mengumpul maklumat melalui sumber.
+Antara perkara penting ialah menentukan kaedah mendapatkan sumber rujukan.
+Contoh :
+Jelaskan bagaimana anda menentukan kaedah kajian untuk mendapatkan bahan atau sumber
+Nota: Sumber Primer atau sumber Sekunder
+
+Membolehkan murid: Memilih untuk menggunakan:
+
+a. Kaedah temubual b. Kaedah pemerhatian c. Kaedah kajian perpustakaan d. Kaedah kajian media
+
+Nota: kaedah yang sesuai Kajian dijalankan secara berkumpulan. Proses kerja berdasarkan senarai semak yang disediakan.
+
+Minggu / Bahan Menerima tugasan dan membuat rujukan Menyusun maklumat Analisis maklumat dan menulis Laporan
+
+1 234
+
+Pembentangan
+
+Mengaplikasi KPS
+ Mengumpul bahan
+ Meneroka bukti
+
+Jadual 1: Contoh senarai semak
+
+ALAT BERFIKIR
+
+50
+
+KSSM SEJARAH TINGKATAN 1
+
+STRATEGI GURU
+Langkah 5 : Sumber Rujukan Guru membimbing murid: Apakah sumber yang anda gunakan untuk mendapatkan maklumat?
+ Orang Sumber  Dokumen/Jurnal  Laman Sesawang  Majalah  Agensi berkenaan  Video
+
+AKTIVITI MURID
+
+PROSES BERFIKIR
+
+Membolehkan murid:
+ Melakukan pencarian  dan mengumpul maklumat dan
+data daripada kaedah yang dipilih berdasarkan sumber primer atau sumber sekunder
+
+Mengaplikasi KPS:  Menganalisis data  Mengumpul maklumat  Meneroka bukti  Membuat inteprestasi
+KBAT Kemahiran inkuiri
+
+ALAT BERFIKIR
+
+Langkah 6 : Analisis Data
+Guru membimbing murid: Data atau bahan yang diperoleh hendaklah dianalisis untuk menjawab pernyataan masalah dalam kajian.
+Untuk megenal pasti sumber yang tepat dan asli yang boleh dipastikan kebenarannya.
+Semasa proses menganalisis, guru perlu membimbing murid membuat perancangan penyelesaiannya.
+Rancangan penyelesaian ini boleh terdiri daripada penetapan tempoh, masa dan strategi penyelesaian masalah menggunakan KPS.
+
+Membolehkan murid:  Memproses / menganalisis data yang diperolehi  Membanding beza dapatan dari pelbagai sumber
+51
+
+Kemahiran Pemikiran Sejarah (KPS)
+ memahami kronologi
+ meneroka bukti
+ membuat interpretasi
+ membuat imaginasi
+ membuat rasionalisasi
+KBAT Kemahiran inkuiri
+
+Contoh:
+Peta Pelbagai Alir
+Peta Pokok
+
+STARATEGI GURU
+Langkah 7: Laporan Kajian
+Guru membimbing murid:
+Menyediakan laporan kajian:
+a. 7-10 halaman
+b. Merangkumi :-
+ Tajuk (Persoalan)  Pendahuluan  Objektif  Kaedah kajian  Hasil dapatan  Kesimpulan dan cadangan  Lampiran  Rujukan
+
+KSSM SEJARAH TINGKATAN 1
+
+AKTIVITI MURID
+Membolehkan murid:
+Menyediakan laporan kajian dalam bentuk:
+ Buku Skrap  Lukisan  Pembentangan Power point  Kertas Sebak  Video / Animasi  Folio  Esei  Komik
+
+PROSES BERFIKIR
+
+ALAT BERFIKIR
+
+Kemahiran Pemikiran Sejarah (KPS)
+ memahami kronologi
+ meneroka bukti
+ membuat interpretasi
+ membuat imaginasi
+ membuat rasionalisasi
+KBAT Kemahiran inkuiri
+
+52
+
+KSSM SEJARAH TINGKATAN 1
+Contoh Tugasan Kerja Projek PT3 Tugasan Baca petikan berikut dengan teliti
+Colosseum atau Flavian Amphitheatre adalah sebuah monumen bersejarah yang terdiri daripada bangunan terbuka separa bulat dan berpentas. Binaan ini merupakan stadium yang hebat dan digunakan sebagai tempat pertunjukan pada Zaman Rom Kuno. Tempat ini dikatakan sebagai stadium yang hebat disebabkan oleh bentuk dan struktur penciptaan Colosseum itu sendiri.
+Petikan daripada :http://meiharls.blogspot.com/2010/05/
+Berdasarkan petikan tersebut, buat kajian dan hasilkan sebuah rencana berkaitan reka bentuk seni bina Colosseum pada zaman Tamadun Rom menjadi asas kepada idea pembinaan stadium pada masa kini. Panjang rencana anda hendaklah tidak kurang daripada 150 patah perkataan.
+53
+
+KSSM SEJARAH TINGKATAN 1
+Tugasan anda hendaklah mengandungi aspek berikut: 1. Tajuk rencana 2. Nama penulis 3. Isi kandungan: (a) Pengenalan - menjelaskan sumbangan Tamadun Rom daripada aspek senibina (b) Menyenaraikan ciri-ciri rekabentuk Colesseum (c) Menyatakan peranan Colesseum dalam Tamadun Rom (d) Membuat perbandingan peranan Colosseum dan stadium pada hari ini. (e) Menghuraikan langkah-langkah pemeliharaan dan pemuliharaan stadium. (f) Membuat rumusan (g) Menyenaraikan sumber rujukan
+54
+
+KSSM SEJARAH TINGKATAN 1
+
+GLOSARI
+
+BIL. 1. 2.
+3. 4. 5. 6. 7. 8. 9. 10. 11. 12.
+13. 14. 15. 16.
+
+Abad Arkib
+
+ISTILAH
+
+Alat Perpaduan Alam sekitar Astonomi Asal-usul Bangga Bentuk Muka Bumi Dekad Dipaparkan Dinasti Dokumen
+
+Garis Masa Kaedah Konsep Kurun
+
+MAKSUD / MAKNA
+Jangka masa seratus tahun. Kumpulan naskah yang disimpan ,tempat simpanan naskah,rekod,dokumen-dokumen sejarah sesebuah negara Suatu mekanisme yang diperlukan atau digunakan untuk menghasilkan perpaduan antara kaum. Alam semula jadi Ilmu falak:pengetahuan yang melibatkan kajian tentang kedudukan, pergerakan dan perkiraan,serta tafsiaran tentang bintang-bintang Punca yang mula-mula sebab atau keadaan yang mula
+Megah, berbesar hati.
+Pandangan fizikal rupa bumi.
+Jangka masa sepuluh tahun, dasawarsa.
+Dipamerkan didedahkan, dibentangkan.
+Jurai keturunan raja dariapad keturunan atau daripada keluarga yang sama,wangsa Keterangan (bukti) yang bertulis atau bercetak yang dapat dijadikan keterangan atau bukti (seperti kad pengenalan,sijil kelahiran) Garisan yang menunjukkan peristiwa-peristiwa yang berlaku pada sesuatu masa tertentu. Cara aatau peraturan membuat sesuatu
+Pengertian am atau idea yang mendasari.
+Tempoh seratus tahun
+55
+
+BIL. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36.
+
+ISTILAH Kebudayaan Kedudukan Kronologi Latar Belakang Lokasi Maklumat Menzahirkan Merenkonstruksi Monumen Negara Pedalaman Pengaruh Peralatan Prasejarah Rekod Rentetan Sumber Sumber Primer Sumber Sekunder Sebab
+
+KSSM SEJARAH TINGKATAN 1
+MAKSUD / MAKNA Keseluruhan cara hidup. Lokasi, tempat. Susunan peristiwa (kejadian) menurut masa berlakunya peristiwa berkenaan. Cerita asas kepada sesuatu peristiwa. Tempat letak atau kedudukan. Keterangan atau butir-butir. Menyatakan atau menampakkan. Membuat gambaran misalnya tentang sesuatu peristiwa lalu dengan mengumpukan dan menjalinkan maklumat yang diperoleh Bangunan yang dibina untuk memperingati orang ternama atau peristiwa Kawasan di bawah kekuasaan kerajaan tertentu. Kawasan atau petempatan di kawasan yang terletak jauh daripada kawasan pantai Kuasa yang dapat mengubah sikap atau menarik perhatian Macam-macam alat Zaman purbakala atau zaman sebelum sejarah ditulis Catatan yang dibuat untuk ingatan Urutan peristiwa. Tempat asal atau tempat bermulanya sesuatu atau punca Bahan asal yang pertama atau yang utama Bahan yang kedua atau bahan yang telah diolah. Perkara yang mengakibatkan sesuatu berlaku.
+56
+
+BIL. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46.
+
+ISTILAH Tawarikh Tempoh Tingkah Laku Tokoh Ulama Visi Wilayah Zaman Zaman Air Batu Zaman Awal
+
+KSSM SEJARAH TINGKATAN 1
+MAKSUD / MAKNA Sejarah,abad,riwayat,tambo Waktu, masa. Tabiat yang lazim dilakukan, perangai, perbuatan. Rupa atau keadaan yang tampak pada zahirnya, bentuk dan sifatnya, macam atau jenis. Orang yang ahli dalam hal atau dalam pengetahuan agama Islam Wawasan atau berpandangan jauh. Kawasan di bawah sesuatu pemerintahan kerajaan lain Tempoh atau jangka masa tertentu. Zaman dunia dilitupi ais Jangka waktu ketika manusia menggunakan alat-alat batu. Ini meliputi manusia Zaman Paleolitik,Neolitik, Mesoliik dan Zaman Logam
+
+57
+
+PANEL PAKAR RUJUK KURIKULUM SEJARAH DAN BUKU TEKS SEJARAH
+Setinggi Penghargaan kepada:
+Pengerusi
+YBhg. Datin Paduka Datuk Prof. Dr. Hajah Ramlah binti Adam Pakar Sejarah
+Pengarah, Pusat Kajian institusi Raja Malaysia, Universiti Malaysia Perlis
+Ahli- ahli:
+1. YBhg. Prof. Emeritus Dato' Dr. Nik Hassan Suhaimi bin Nik Abdul Rahman Pakar Pra Sejarah di Institut Alam dan Tamadun Melayu (ATMA), Universiti Kebangsaan Malaysia
+2. YBhg. Prof. Madya Datu Haji Sanib bin Haji Said Pengarah Institut Pengajian Asia Timur, Universiti Malaysia Sarawak
+3. Prof. Dr. Ooi Keat Gin Pensyarah di Jabatan Kemanusiaan,
+Universiti Sains Malaysia
+4. Prof. Madya Dr. Ismail bin Ali Pengarah,
+Universiti Malaysia Sabah Cawangan Labuan
+5. Prof. Dr. Sivachandralingam Sundara Raja Pensyarah di Jabatan Sejarah, Universiti Malaya
+
+1. Mohd. Faudzan bin Hamzah 2. Umi Salmah bt A. Manaf 3. Rofiah bt Abdul Talib 4. Roslan bt Yaakub 5. Faizah bt Alias 6. Dr. Mohd Asraff bin Ibrahim 7. Dr. Segahran a/l Appo 8. Dr. Fatimah bt Dahalan 9. Che Nasir bin Che Husin 10. Hasmahan bt A. Rahman 11. Julita bt Liwan 12. Muslimin bin Fadzil 13. Nor Azan bin Alias 14. Ridzuan bin Hassan 15. Dr. Mohd bin Shamsuddin
+
+PANEL PENYUMBANG
+Bahagian Pembangunan Kurikulum, Putarajaya Bahagian Pembangunan Kurikulum, Putrajaya Bahagian Pembangunan Kurikulum, Putrajaya Bahagian Pembangunan Kurikulum, Putarajaya Bahagian Pembangunan Kurikulum, Putrajaya IPG Kampus Raja Melewar Seremban, Negeri Sembilan IPG Kampus Perempuan Melaka IPG Kampus Teknik Nilai, Negeri Sembilan JPN Kelantan SMK Dato' Abdul Razak (SDAR) Seremban, Negeri Sembilan SMK Seri Tanjung, Kuala Selangor, Selangor SMK Tiram Jaya Tanjung Karang, Selangor SMK Seremban 2, Seremban, Negeri Sembilan SM Seri Puteri Cyberjaya Sepang, Selangor Universiti Kebangsaan Malaysia, Bangi, Selangor
+
+TURUT MENYUMBANG
+
+1. Aziah bt Abdullah 2. Abdullah Sani bin Ismail 3. Che Rozana bt Majid 4. Liu Fei Ling 5. Mohd Fadzil bin Mat Min 6. Misran bin Shariff 7. Mohd Faris Bin Mohamad Saei 8. Mohd Faizal bin Hamadun 9. Noraini bt Abd. Rahman 10. Noraini bt Hashim 11. Noor Hashimah bt Ibrahim 12. Norhazilawati bt M.Jamil 13. Siti Ruzana bt Ab. Ghani 14. Yap Kim Yin 15. Siti Norfaezah bt Mohd Zubir 16. Zaniza bt A. Rahman 17. Zuri Afizu bin Mohd Yusof
+
+SMK Tunku Ampuan Durah Seremban, Negeri Sembilan SMK Banting, Telok Datok Banting, Selangor SMK KLIA Sepang, Selangor SMK Puteri Jalan Labu Lama,Labu, Negeri Sembilan SMK Datok Mansor Bahau, Negeri Sembilan Kolej Vokasional Ampangan,Seremban, Negeri Sembilan SMK Dato Undang Musa Al-Haj Jelebu, Negeri Sembilan SMK Dato Undang Musa Al-Haj Jelebu, Negeri Sembilan SMK USJ 13 Subang Jaya, Selangor SMK Bukit Mewah Seremban, Negeri Sembilan Sekolah Menengah Sains Tunku Munawir, Negeri Sembilan SMK Seksyen 16 , Shah Alam, Selangor SAM Sg Merab Luar, Sepang, Selangor SMK Dato Undang Musa Al-Haj Jelebu, Negeri Sembilan SMK Seri Selayang Batu Caves, Selangor SMK Seksyen 19 Shah Alam, Selangor SM Sains Cheras , Selangor
+
+
