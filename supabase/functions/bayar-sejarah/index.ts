@@ -14,7 +14,7 @@
 
    Rahsia (supabase secrets set ...):
      TOYYIB_SECRET    userSecretKey akaun toyyibPay (Nani)
-     TOYYIB_KATEGORI  categoryCode
+     TOYYIB_KATEGORI_SEJARAH  categoryCode Sejarah (jatuh balik: TOYYIB_KATEGORI)
      TOYYIB_BASE      https://dev.toyyibpay.com (sandbox) | https://toyyibpay.com
      APP_URL          https://jejaktpsains.naikgred.com/
      PREFIX           lo (Sains) | jm (Matematik)
@@ -32,7 +32,8 @@ const env = (k: string, lalai = "") => Deno.env.get(k) ?? lalai;
 const P = "js";
 const BASE = env("TOYYIB_BASE", "https://dev.toyyibpay.com").replace(/\/$/, "");
 const RAHSIA = env("TOYYIB_SECRET");
-const KATEGORI = env("TOYYIB_KATEGORI");
+/* Kategori toyyibPay khas Sejarah; jika belum ditetapkan, guna kategori kongsi projek. */
+const KATEGORI = env("TOYYIB_KATEGORI_SEJARAH") || env("TOYYIB_KATEGORI");
 const APP_URL = "https://jejaktpsejarah.naikgred.com/";
 const PRODUK = "Jejak TP Sejarah";
 const FN_URL = env("SUPABASE_URL") + "/functions/v1/bayar-sejarah";
