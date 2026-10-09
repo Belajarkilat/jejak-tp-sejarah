@@ -1,3 +1,12 @@
 .env
 node_modules/
 index-uji.html
+
+# nota dalaman dan dokumen kerajaan: kekal setempat
+SAMBUNG.md
+ARKITEKTUR.md
+dskp/
+promo/
+galeri.html
+*.log
+supabase/.temp/

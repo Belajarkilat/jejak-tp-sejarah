@@ -1,4 +1,4 @@
-/* Service worker Jejak TP Matematik: app boleh dibuka tanpa internet.
+/* Service worker Jejak TP Sejarah: app boleh dibuka tanpa internet.
 
    Wifi sekolah sering perlahan atau terputus. Selepas satu kali dibuka dalam
    talian, app shell (halaman, muzik, fon) dan bank bab yang pernah dibuka dimuatkan dari
@@ -9,7 +9,7 @@
    - halaman (navigasi): rangkaian dahulu (3 saat), jatuh balik ke cache
    - fail statik sama asal: cache dahulu, dikemas kini di latar (stale-while-revalidate)
    Tukar VERSI setiap kali fail app diterbitkan supaya cache lama dibuang. */
-const VERSI = "js-2026-10-10a";
+const VERSI = "js-2026-10-10c";
 const SHELL = [
   "./", "index.html", "math-ext.css", "fon/fon.css", "muzik.js", "akses.js",
   "konfig.js", "bab-indeks.js?v=1", "bank-s1b1.js?v=1"

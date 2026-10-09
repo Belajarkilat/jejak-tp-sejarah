@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="description" content="Jejak TP Sejarah: pentaksiran bilik darjah untuk Sejarah KSSM Tingkatan 1. Setiap bab menjadi satu perjalanan enam hentian yang dipetakan kepada Tahap Penguasaan 1 hingga 6.">
+<meta name="description" content="Jejak TP Sejarah: pentaksiran bilik darjah untuk Sejarah KSSM Tingkatan 1 hingga 3. Setiap bab menjadi satu perjalanan enam hentian yang dipetakan kepada Tahap Penguasaan 1 hingga 6.">
 <meta name="theme-color" content="#EDF0F5" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#070D18" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -1163,10 +1163,10 @@ body.zon-murid{color:var(--tinta)}
 (function(){
 "use strict";
 
-/* Sejarah Tingkatan 1 (8 bab) sedia dimainkan. Bab 1-2 setiap tingkatan
+/* Sejarah Tingkatan 1 (8 bab), Tingkatan 2 (10 bab) dan Tingkatan 3 (8 bab) sedia dimainkan. Bab 1-2 setiap tingkatan
    percuma; Bab 3 ke atas memerlukan kelas milik guru Premium (RM23/tahun).
    Lihat bebasBab() dan premiumAktif(). */
-var JUMLAH_BAB={1:8};
+var JUMLAH_BAB={1:8,2:10,3:8};
 var BAB_TERSEDIA=[];
 Object.keys(JUMLAH_BAB).forEach(function(t){
   for(var i=1;i<=JUMLAH_BAB[t];i++) BAB_TERSEDIA.push("s"+t+"b"+i);
@@ -1188,7 +1188,9 @@ function tingkatanBab(id){ var m=/^s(\d)b/.exec(id||""); return m?+m[1]:1; }
 function tingkatanKelas(nama){ var m=/^\s*(?:t(?:ing(?:katan)?)?\.?\s*)?([1-5])(?!\d)/i.exec(nama||""); var t=m?+m[1]:null; return t&&BAB_TERSEDIA.indexOf("s"+t+"b1")>=0?t:null; }
 var BAB_ID=null;
 try{ BAB_ID=localStorage.getItem("jm-bab"); }catch(e){}
-if(BAB_TERSEDIA.indexOf(BAB_ID)<0) BAB_ID="s1b1";
+/* Pelawat baharu (tiada bab disimpan) mesti memilih tingkatan pada skrin nama main bebas. */
+var BAB_DIPILIH=BAB_TERSEDIA.indexOf(BAB_ID)>=0;
+if(!BAB_DIPILIH) BAB_ID="s1b1";
 
 /* ============================================================
    KANDUNGAN — dimuatkan daripada fail bank yang berasingan.
@@ -1252,7 +1254,61 @@ var DUNIA={
         misi:"Ikuti perluasan kuasa empayar India dan sistem peperiksaan awam China."},
   s1b8:{warna:"#0F7B5F",lembut:"#D8F2EA",gelap:"#0A5442",ikon:"\u{1F54C}",
         hentian:["\u{1F3DC}\u{FE0F}","\u{1F319}","\u{1F91D}","\u{1F4DA}","\u{2696}\u{FE0F}","\u{1F4A1}"],
-        misi:"Telusuri kemunculan Islam, ketokohan Nabi Muhammad s.a.w. dan sumbangan tamadun Islam kepada dunia."}
+        misi:"Telusuri kemunculan Islam, ketokohan Nabi Muhammad s.a.w. dan sumbangan tamadun Islam kepada dunia."},
+  s2b1:{warna:"#0E6E8C",lembut:"#D9EEF5",gelap:"#094B60",ikon:"\u{1F6F6}",
+        hentian:["\u{1F30F}","\u{23F3}","\u{2693}","\u{1FAA8}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Belayar ke Funan, Srivijaya, Angkor dan Majapahit untuk mengenali kerajaan awal Alam Melayu."},
+  s2b2:{warna:"#5E7D1E",lembut:"#E8F0D6",gelap:"#405614",ikon:"\u{1F33E}",
+        hentian:["\u{1F451}","\u{1F332}","\u{1F4A7}","\u{1F50D}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Lihat bagaimana raja, pembesar dan rakyat Alam Melayu membina kekayaan dari sawah dan pelabuhan."},
+  s2b3:{warna:"#A0522D",lembut:"#F8E4D8",gelap:"#6E381F",ikon:"\u{270D}\u{FE0F}",
+        hentian:["\u{1FAA8}","\u{1F9F1}","\u{1F5E3}\u{FE0F}","\u{1F50D}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Tafsir batu bersurat dan candi untuk memahami bahasa, persuratan dan masyarakat Alam Melayu."},
+  s2b4:{warna:"#6B4BB0",lembut:"#EBE5F8",gelap:"#4A337A",ikon:"\u{1F54C}",
+        hentian:["\u{1F333}","\u{1F6D5}","\u{1F64F}","\u{1F504}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Jejaki perubahan kepercayaan dari animisme hingga Islam dan keunikan warisan Alam Melayu."},
+  s2b5:{warna:"#B3261E",lembut:"#FBE2E0",gelap:"#7D1A15",ikon:"\u{1F3EF}",
+        hentian:["\u{1F333}","\u{1F451}","\u{2693}","\u{1F3F0}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Saksikan Melaka bangkit sebagai pelabuhan agung, kemudian kaji iktibar kejatuhannya pada 1511."},
+  s2b6:{warna:"#1F5FBF",lembut:"#DFE8FA",gelap:"#154285",ikon:"\u{2693}",
+        hentian:["\u{1F3EF}","\u{1F6E1}\u{FE0F}","\u{2693}","\u{1F4DA}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Ikuti waris Melaka membina Johor dan menjadikan Riau pusat perdagangan serta persuratan."},
+  s2b7:{warna:"#B07A10",lembut:"#FBF0D6",gelap:"#7A540A",ikon:"\u{1F451}",
+        hentian:["\u{1F451}","\u{1F941}","\u{26CF}\u{FE0F}","\u{1F4DC}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Lihat warisan Melaka diteruskan oleh Kesultanan Pahang, Perak, Terengganu dan Selangor."},
+  s2b8:{warna:"#0F7B5F",lembut:"#D8F2EA",gelap:"#0A5442",ikon:"\u{1F33C}",
+        hentian:["\u{1F3DE}\u{FE0F}","\u{1F33C}","\u{1F33E}","\u{1F54A}\u{FE0F}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Kenali pengasasan Kedah, Kelantan, Negeri Sembilan dan Perlis serta diplomasi yang menjaga kedaulatannya."},
+  s2b9:{warna:"#8A5A2B",lembut:"#F6EADC",gelap:"#5E3C1A",ikon:"\u{1F3AD}",
+        hentian:["\u{1F4DC}","\u{1F3E0}","\u{1F3B6}","\u{2696}\u{FE0F}","\u{1F54C}","\u{1F4A1}"],
+        misi:"Hayati Adat Perpatih, Mak Yong, wayang kulit dan warisan negeri-negeri Melayu yang lain."},
+  s2b10:{warna:"#1B6E9C",lembut:"#DCEEF8",gelap:"#124B6B",ikon:"\u{1F6F6}",
+        hentian:["\u{1F3FA}","\u{1F3E0}","\u{1F334}","\u{1F33F}","\u{1F91D}","\u{1F4A1}"],
+        misi:"Mudik sungai Sarawak dan Sabah untuk mengenali rumah panjang, Gawai, Kaamatan dan masyarakatnya."},
+  s3b1:{warna:"#1F5FBF",lembut:"#DFE8FA",gelap:"#154285",ikon:"\u{26F5}",
+        hentian:["\u{1F9ED}","\u{23F3}","\u{265F}\u{FE0F}","\u{1F50D}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Kenali sebab dan strategi kuasa Barat belayar ke Timur, dari Melaka 1511 hingga Perjanjian London 1824."},
+  s3b2:{warna:"#0E6E8C",lembut:"#D9EEF5",gelap:"#094B60",ikon:"\u{2693}",
+        hentian:["\u{1F3DD}\u{FE0F}","\u{1F4DC}","\u{1F3DB}\u{FE0F}","\u{1F6A2}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Telusuri Pulau Pinang, Singapura dan Melaka yang menjadi pangkalan British di Selat Melaka."},
+  s3b3:{warna:"#B07A10",lembut:"#FBF0D6",gelap:"#7A540A",ikon:"\u{26CF}\u{FE0F}",
+        hentian:["\u{26CF}\u{FE0F}","\u{1F4CB}","\u{1F686}","\u{1F4CA}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Fahami sistem Residen dan penggabungan Perak, Selangor, Negeri Sembilan dan Pahang pada 1896."},
+  s3b4:{warna:"#5E7D1E",lembut:"#E8F0D6",gelap:"#405614",ikon:"\u{1F4DC}",
+        hentian:["\u{1F5FA}\u{FE0F}","\u{1F4CB}","\u{1F451}","\u{1F50D}","\u{2696}\u{FE0F}","\u{1F4A1}"],
+        misi:"Kaji lima negeri yang menerima Penasihat British dan cara Johor mengekalkan kedaulatannya."},
+  s3b5:{warna:"#0F7B5F",lembut:"#D8F2EA",gelap:"#0A5442",ikon:"\u{1F334}",
+        hentian:["\u{1F451}","\u{1F4DC}","\u{1F3E2}","\u{2696}\u{FE0F}","\u{1F91D}","\u{1F4A1}"],
+        misi:"Bandingkan rejim Brooke di Sarawak dengan Syarikat Borneo Utara British di Sabah."},
+  s3b6:{warna:"#8A5A2B",lembut:"#F6EADC",gelap:"#5E3C1A",ikon:"\u{1F686}",
+        hentian:["\u{1F333}","\u{1F4C8}","\u{1F3D9}\u{FE0F}","\u{2696}\u{FE0F}","\u{1F4AA}","\u{1F4A1}"],
+        misi:"Nilai kesan ekonomi dan sosial pentadbiran Barat, dari ladang getah hingga masyarakat berbilang kaum."},
+  s3b7:{warna:"#B3261E",lembut:"#FBE2E0",gelap:"#7D1A15",ikon:"\u{2694}\u{FE0F}",
+        hentian:["\u{2694}\u{FE0F}","\u{23F3}","\u{26F0}\u{FE0F}","\u{1F50D}","\u{1F31F}","\u{1F4A1}"],
+        misi:"Ikuti perjuangan Maharaja Lela, Bahaman, Mat Salleh dan Rentap mempertahankan tanah air."},
+  s3b8:{warna:"#6B4BB0",lembut:"#EBE5F8",gelap:"#4A337A",ikon:"\u{1F451}",
+        hentian:["\u{1F3DB}\u{FE0F}","\u{1F4DC}","\u{1F5C2}\u{FE0F}","\u{1F50D}","\u{1F91D}","\u{1F4A1}"],
+        misi:"Lihat bagaimana raja dan pembesar Melayu menjaga kedaulatan melalui pemodenan, perlembagaan dan diplomasi."}
 };
 var DUNIA_ASAS={warna:"#8A5A2B",lembut:"#F6EADC",gelap:"#5E3C1A",ikon:"\u{1F4DC}",hentian:[],misi:"Lepasi enam hentian untuk menguasai bab ini."};
 function duniaBab(id){ return DUNIA[id||BAB_ID]||DUNIA_ASAS; }
@@ -1847,7 +1903,7 @@ function pengsan(){
   var b=el("div","result");
   b.appendChild(el("div","badbig","\u{1F635}"));
   b.appendChild(el("h2",null,"Habis tenaga"));
-  b.appendChild(el("p",null,"Awak kehabisan tenaga sebelum sampai ke hentian seterusnya. Setiap jawapan betul menambah tenaga awak. Kalau meter ini mengganggu, hidupkan Mod tenang di peta."));
+  b.appendChild(el("p",null,"Awak kehabisan tenaga sebelum sampai ke hentian seterusnya. Setiap jawapan betul menambah tenaga awak. Jika meter ini mengganggu, hidupkan Mod tenang di peta."));
   var a=el("div","actions");a.style.justifyContent="center";
   var b1=el("button","btn");b1.textContent="Cuba hentian ini semula";b1.setAttribute("data-f","aksi");
   b1.onclick=function(){ mulaAras(S.aras); };
@@ -2200,23 +2256,41 @@ function renderNamaBebas(){
   bd.innerHTML='<div class="sambut">'+
     '<img class="logo" src="ikon.svg" alt="">'+
     '<h2>Jom mula jejak Sejarah!</h2>'+
-    '<p>Tulis nama awak dulu. Nama ini disimpan dalam telefon ini sahaja.</p></div>';
+    '<p>Tulis nama awak dahulu. Nama ini disimpan dalam telefon ini sahaja.</p></div>';
   var t=el("div","tengah");
   var l1=el("label","medan-bebas"); l1.innerHTML='<span>Nama awak</span>';
   var n=el("input"); n.type="text"; n.id="namaBebas"; n.maxLength=40; n.autocomplete="given-name";
   n.placeholder="Contoh: Aina"; n.value=S.namaMain||""; l1.appendChild(n);
-  var l2=el("label","medan-bebas"); l2.innerHTML='<span>Sekolah <small>(tak wajib)</small></span>';
+  var l2=el("label","medan-bebas"); l2.innerHTML='<span>Sekolah <small>(pilihan)</small></span>';
   var k=el("input"); k.type="text"; k.id="sekolahBebas"; k.maxLength=60; k.autocomplete="off";
   k.placeholder="Contoh: SMK Convent Bukit Nanas"; k.value=S.sekolahMain||""; l2.appendChild(k);
   var bt=el("button","btn penuh"); bt.textContent="Mula main"; bt.style.maxWidth="340px";
   var msg=el("p","ralat",""); msg.hidden=true;
-  t.appendChild(l1); t.appendChild(l2); t.appendChild(bt); t.appendChild(msg);
+  var tkPilih=BAB_DIPILIH?tingkatanBab(BAB_ID):null;
+  var tingAda=[1,2,3,4,5].filter(function(x){ return BAB_TERSEDIA.indexOf("s"+x+"b1")>=0; });
+  var l3=el("div","medan-bebas"); l3.setAttribute("role","group"); l3.setAttribute("aria-labelledby","lblTingBebas");
+  l3.innerHTML='<span id="lblTingBebas">Tingkatan awak</span>';
+  var tp=el("div","tingpilih"); tp.style.marginTop="0";
+  tingAda.forEach(function(x){
+    var b=el("button"); b.type="button"; b.textContent="Tingkatan "+x; b.setAttribute("data-ting",x);
+    b.setAttribute("aria-pressed",x===tkPilih?"true":"false");
+    b.onclick=function(){
+      tkPilih=x; msg.hidden=true;
+      [].forEach.call(tp.children,function(c){ c.setAttribute("aria-pressed",c===b?"true":"false"); });
+    };
+    tp.appendChild(b);
+  });
+  l3.appendChild(tp);
+  t.appendChild(l1); t.appendChild(l3); t.appendChild(l2); t.appendChild(bt); t.appendChild(msg);
   bd.appendChild(t);
   function mula(){
     var v=n.value.replace(/\s+/g," ").trim();
-    if(v.length<2){ msg.hidden=false; msg.textContent="Tulis nama awak dulu, sekurang-kurangnya 2 huruf."; n.focus(); return; }
+    if(v.length<2){ msg.hidden=false; msg.textContent="Tulis nama awak dahulu, sekurang-kurangnya 2 huruf."; n.focus(); return; }
+    if(!tkPilih){ msg.hidden=false; msg.textContent="Pilih tingkatan awak dahulu."; tp.firstChild.focus(); return; }
     S.namaMain=v; S.sekolahMain=k.value.replace(/\s+/g," ").trim();
-    simpanDiri(); render(); window.scrollTo({top:0});
+    simpanDiri(); BAB_DIPILIH=true;
+    if(tingkatanBab(BAB_ID)!==tkPilih) tukarBab("s"+tkPilih+"b1");
+    else { render(); window.scrollTo({top:0}); }
   }
   n.onkeydown=function(e){ if(e.key==="Enter") k.focus(); };
   k.onkeydown=function(e){ if(e.key==="Enter") mula(); };
@@ -2464,7 +2538,7 @@ function kadPasang(){
   var k=el("div","kotakmain pasang");
   k.appendChild(el("span","em","\u{1F4F2}"));
   var d=GESA_PASANG
-    ? "Sekali tekan, terus main. Tak payah cari pautan dalam group lagi."
+    ? "Sekali tekan, terus main. Tidak perlu mencari pautan dalam kumpulan lagi."
     : ios
     ? '<ol class="langkah"><li>Tekan butang <b>Kongsi</b> (petak dengan anak panah ke atas) di bawah skrin.</li>'+
       '<li>Pilih <b>Add to Home Screen</b>.</li></ol>'
@@ -2597,7 +2671,7 @@ function renderPeta(){
       var t=el("button",kunci?"terkunci":null); t.type="button"; t.title=kunci?"Bab premium — naik taraf untuk buka":b.kod;
       t.setAttribute("aria-pressed",b.id===BAB_ID?"true":"false");
       t.innerHTML=(kunci?'<span class="ik" aria-hidden="true">\u{1F512}</span>':'<span class="ik" style="background:'+dd.warna+'" aria-hidden="true">'+dd.ikon+'</span>')+esc(b.tajuk);
-      if(kunci) t.onclick=function(){ alert("\u{1F512} "+b.tajuk+" ialah bab premium.\n\nMinta cikgu awak naik taraf akaun untuk buka bab ni dan bab premium lain."); };
+      if(kunci) t.onclick=function(){ alert("\u{1F512} "+b.tajuk+" ialah bab premium.\n\nMinta cikgu awak naik taraf akaun untuk membuka bab ini dan bab premium yang lain."); };
       else t.onclick=function(){ tukarBab(b.id); };
       bp.appendChild(t);
     });
@@ -2644,8 +2718,8 @@ function renderPeta(){
   for(var n=6;n>S.aras;n--){ if(S.lulus[n]){ lompat=n; break; } }
   if(!S.latihan&&lompat&&!S.lulus[S.aras]){
     st.appendChild(el("p","note urutannota",
-      "Awak dah lepas hentian "+lompat+", tapi TP dikira ikut urutan. Lepas hentian "+
-      S.aras+" dulu supaya TP awak naik."));
+      "Awak sudah melepasi hentian "+lompat+", tetapi TP dikira mengikut urutan. Lepasi hentian "+
+      S.aras+" dahulu supaya TP awak naik."));
   }
 
   if(tunggu){
@@ -2999,7 +3073,7 @@ function renderSoalan(){
     var PUJI=["Betul!","Hebat!","Tepat sekali!","Mantap!"];
     var tajukFb, emo;
     if(hantar){ tajukFb="Dihantar kepada cikgu"; emo="✉️"; }
-    else if(ulang){ tajukFb=S.retryOk?"Sekarang betul! Awak dah faham":"Belum lagi, tak apa"; emo=S.retryOk?"\u{1F4AA}":"\u{1F4A1}"; }
+    else if(ulang){ tajukFb=S.retryOk?"Sekarang betul! Awak sudah faham":"Belum lagi, tidak mengapa"; emo=S.retryOk?"\u{1F4AA}":"\u{1F4A1}"; }
     else if(q._betul){ tajukFb=(S.kombo>=3?"Kombo "+S.kombo+"!":PUJI[S.qi%PUJI.length]); emo=(S.kombo>=3?"\u{1F525}":"\u{1F389}"); }
     else { tajukFb="Jom lihat caranya"; emo="\u{1F4A1}"; }
     f.innerHTML='<span class="emo" aria-hidden="true">'+emo+'</span><div><b>'+tajukFb+'</b>'+
@@ -3825,7 +3899,7 @@ function kadNilai(){
   ["Cadangan TP setiap murid, cikgu yang tentukan TP akhir",
    "Grid diagnostik: soalan yang paling ramai murid gagal",
    "Ulasan PBD sedia untuk disalin ke SPPB",
-   "8 bab Sejarah Tingkatan 1 (Bab 1-2 percuma; Premium menengah rendah pada harga perintis RM23/tahun hingga 31 Dis 2026)",
+   "26 bab Sejarah Tingkatan 1 hingga 3 (Bab 1-2 setiap tingkatan percuma; Premium menengah rendah pada harga perintis RM23/tahun hingga 31 Dis 2026)",
    "Murid log masuk dengan kod kelas dan PIN, tidak perlu akaun murid"
   ].forEach(function(t){ ul.appendChild(el("li",null,esc(t))); });
   bd.appendChild(ul);
@@ -4028,7 +4102,7 @@ function mainMingguIni(kelas,no){
    resit disemak. Lihat jejak-tp-admin/premium.js. */
 function bukaWaNaikTaraf(kod){
   var mesej="Salam, saya "+(PROFIL&&PROFIL.nama||"cikgu")+(PROFIL&&PROFIL.sekolah?" dari "+PROFIL.sekolah:"")+
-    ". Saya nak naik taraf akaun Jejak TP Sejarah saya ke Premium "+kod+" (harga perintis RM23/tahun)."+
+    ". Saya ingin naik taraf akaun Jejak TP Sejarah saya ke Premium "+kod+" (harga perintis RM23/tahun)."+
     (SESI&&SESI.user&&SESI.user.email?"\n\nE-mel akaun saya: "+SESI.user.email:"");
   window.open("https://wa.me/60193686146?text="+encodeURIComponent(mesej),"_blank");
 }
@@ -4055,7 +4129,7 @@ function naikTarafOnline(peringkat, btn){
     location.href=j.url;
   }).catch(function(e){
     btn.disabled=false; btn.textContent=asal;
-    alert("Tak dapat buka halaman bayaran.\n\n"+e.message+"\n\nCuba lagi, atau bayar melalui WhatsApp.");
+    alert("Halaman bayaran tidak dapat dibuka.\n\n"+e.message+"\n\nCuba lagi, atau bayar melalui WhatsApp.");
   });
 }
 /* toyyibPay memulangkan guru ke ?cikgu=1&bayar=1 bersama billcode/status_id.
@@ -4074,19 +4148,19 @@ function semakBayaranKembali(cubaan){
   return panggilBayar({aksi:"semak",billcode:SEMAK_BIL}).then(function(j){
     if(j.status==="berjaya"){
       try{ localStorage.removeItem("cn-bil"); }catch(e){}
-      BAYAR_MESEJ={jenis:"berjaya",teks:"✅ Terima kasih! Bayaran berjaya dan Premium dah aktif. Resit dihantar ke e-mel guru."};
+      BAYAR_MESEJ={jenis:"berjaya",teks:"✅ Terima kasih! Bayaran berjaya dan Premium sudah aktif. Resit dihantar ke e-mel cikgu."};
       return muatProfil();
     }
     if(j.status==="gagal"){ BAYAR_MESEJ={jenis:"gagal",teks:"Bayaran tidak berjaya atau dibatalkan. Tiada caj dikenakan. Cuba lagi bila-bila masa."}; return; }
     if(j.status==="tiada"){ BAYAR_MESEJ=null; return; }
     if(cubaan<5){
-      BAYAR_MESEJ={jenis:"menunggu",teks:"⏳ Bank belum sahkan bayaran. Kami semak semula sendiri, tak perlu bayar lagi."};
+      BAYAR_MESEJ={jenis:"menunggu",teks:"⏳ Bank belum mengesahkan bayaran. Kami akan menyemak semula; cikgu tidak perlu membayar sekali lagi."};
       setTimeout(function(){ Promise.resolve(semakBayaranKembali(cubaan+1)).then(segarGuru); },15000);
       return;
     }
-    BAYAR_MESEJ={jenis:"menunggu",teks:"Bayaran masih belum disahkan. Kalau duit dah ditolak, Premium akan aktif sendiri bila bank sahkan. Masih tak aktif dalam 1 jam? WhatsApp kami."};
+    BAYAR_MESEJ={jenis:"menunggu",teks:"Bayaran masih belum disahkan. Jika wang sudah ditolak, Premium akan aktif secara automatik apabila bank mengesahkannya. Masih belum aktif selepas 1 jam? Hubungi kami melalui WhatsApp."};
   }).catch(function(){
-    BAYAR_MESEJ={jenis:"gagal",teks:"Tak dapat semak status bayaran sekarang. Muat semula halaman sebentar lagi."};
+    BAYAR_MESEJ={jenis:"gagal",teks:"Status bayaran tidak dapat disemak sekarang. Muat semula halaman sebentar lagi."};
   });
 }
 function barisPremium(nama, kod, aktif, tamat){
@@ -4187,7 +4261,7 @@ function panelMaklumBalas(){
   var p=el("div","panel maklumbalas");
   var bd=el("div","panel-bd"); p.appendChild(bd);
   if(!MB.buka){
-    bd.appendChild(el("div",null,'<h3>Bantu kami baiki Jejak TP</h3><p class="note">Dah cuba dengan murid? Kongsi pendapat cikgu dalam 1 minit. Kami baca setiap satu.</p>'+
+    bd.appendChild(el("div",null,'<h3>Bantu kami baiki Jejak TP</h3><p class="note">Sudah mencuba dengan murid? Kongsi pendapat cikgu dalam 1 minit. Kami membaca setiap maklum balas.</p>'+
       (MB.mesej?'<p class="note mb-ok">'+esc(MB.mesej)+'</p>':'')));
     var bb=el("button","btn sm"); bb.type="button"; bb.textContent="Beri maklum balas";
     bb.onclick=function(){ MB.buka=true; MB.mesej=""; renderCikgu(); };
@@ -4204,7 +4278,7 @@ function panelMaklumBalas(){
     sk.appendChild(b);
   });
   bd.appendChild(sk);
-  bd.appendChild(el("p","note mb-hujung","1 = tak mungkin guna &nbsp;&middot;&nbsp; 5 = pasti guna"));
+  bd.appendChild(el("p","note mb-hujung","1 = tidak mungkin guna &nbsp;&middot;&nbsp; 5 = pasti guna"));
   function kotak(lbl,kunci,ph){
     var m=el("div","medan"); m.appendChild(el("label",null,lbl));
     var t=el("textarea","free"); t.maxLength=1500; t.placeholder=ph; t.value=MB[kunci];
@@ -4241,8 +4315,8 @@ function hantarMaklumBalas(){
   SB.from("js_maklum_balas").insert({skor:MB.skor,suka:MB.suka.trim(),baiki:MB.baiki.trim(),tingkatan:ting,hubungi:MB.hubungi})
     .then(function(r){
       MB.sibuk=false;
-      if(r.error){ MB.mesej="Tak berjaya dihantar. Cuba lagi."; MB.ralat=true; }
-      else { MB={buka:false,skor:0,suka:"",baiki:"",ting:{},hubungi:true,sibuk:false,mesej:"Terima kasih cikgu! Maklum balas dah sampai.",ralat:false}; }
+      if(r.error){ MB.mesej="Tidak berjaya dihantar. Cuba lagi."; MB.ralat=true; }
+      else { MB={buka:false,skor:0,suka:"",baiki:"",ting:{},hubungi:true,sibuk:false,mesej:"Terima kasih, cikgu! Maklum balas sudah diterima.",ralat:false}; }
       renderCikgu();
     });
 }
@@ -4517,7 +4591,7 @@ function butiranMurid(kelas,no,auto,lapor){
 
   var lbl=el("div","ulasan-hd");
   lbl.appendChild(el("span","nm","Sebab penindihan"));
-  lbl.appendChild(el("span","meta","kalau cikgu tukar TP"));
+  lbl.appendChild(el("span","meta","jika cikgu menukar TP"));
   w.appendChild(lbl);
   var sb=el("textarea"); sb.style.minHeight="64px";
   sb.placeholder="Contoh: pemerhatian semasa amali dan soal jawab lisan menunjukkan penguasaan lebih tinggi daripada rekod bertulis.";
@@ -5103,7 +5177,7 @@ function paneSenarai(){
       if(!k.contoh){
         var bw=el("a","btnkecil"); bw.textContent="WhatsApp";
         bw.href="https://wa.me/?text="+encodeURIComponent("Hai "+namaPendek(kelas,m.no)+"! Ini pautan Jejak TP Sejarah untuk awak seorang. "+
-          "Tekan sekali, terus masuk, tak perlu taip PIN:\n"+urlPeribadi(k.kod,m.no,m.pin)+"\n\nJangan kongsi pautan ni dengan kawan ya.");
+          "Tekan sekali untuk terus masuk, tanpa menaip PIN:\n"+urlPeribadi(k.kod,m.no,m.pin)+"\n\nJangan kongsi pautan ini dengan kawan.");
         bw.target="_blank"; bw.rel="noopener";
         bw.title="Hantar pautan masuk terus kepada "+m.nama+" sahaja";
         ops.appendChild(bw); ops.appendChild(document.createTextNode(" "));
