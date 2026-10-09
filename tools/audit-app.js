@@ -38,8 +38,8 @@ const fs = require("fs");
     for (const [id, nama] of [["tabPapan", "papan"], ["tabSenarai", "nama & PIN"], ["tabDiag", "diagnostik"], ["tabTangga", "tangga TP"]]) {
       await p.evaluate(i => { const e = document.getElementById(i); e && e.click(); }, id); await p.waitForTimeout(500);
       const t = await p.evaluate(() => document.body.innerText);
-      if (/sains/i.test(t)) ralat.push(`teks 'Sains' pada tab ${nama}: ` + (t.match(/.{0,40}sains.{0,40}/i) || [])[0]);
-      if (id === "tabTangga" && !/Matematik|Indeks|indeks/.test(t)) ralat.push("Tangga TP tidak menunjukkan kandungan Matematik");
+      if (/sains|matematik/i.test(t)) ralat.push(`teks Sains/Matematik pada tab ${nama}: ` + (t.match(/.{0,40}sains.{0,40}/i) || [])[0]);
+      if (id === "tabTangga" && !/Sejarah|Zaman|Tamadun|Mengenali/.test(t)) ralat.push("Tangga TP tidak menunjukkan kandungan Sejarah");
     }
     await axe("dashboard guru");
     laporan.push({ tema, skrin: "sesi", ralat, gagal: [...new Set(gagal)] });
