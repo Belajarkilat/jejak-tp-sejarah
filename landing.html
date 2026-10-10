@@ -219,13 +219,61 @@ footer .ng b{color:var(--teal)}
     <p class="lede">Murid menjawab soalan Sejarah KSSM Tingkatan 1 hingga 5 dengan garis masa dan petikan sumber melalui telefon atau komputer. Sistem mencadangkan TP setiap murid berdasarkan Standard Prestasi DSKP dan menyediakan ulasan PBD untuk disalin ke SPPB. Keputusan akhir tetap di tangan guru.</p>
     <div class="ctas">
       <a class="btn utama" href="index.html?demo=cikgu">Lihat kelas contoh</a>
-      <a class="btn kedua" href="#harga">Lihat harga</a>
+      <a class="btn kedua" href="#video">&#9654;&nbsp; Tonton video satu minit</a>
     </div>
     <a class="cuba-murid" href="index.html?demo=murid">Atau cuba sebagai murid →</a>
     <p class="kod">Sudah ada kod kelas daripada guru? Masukkan kod itu di <b>jejaktpsejarah.naikgred.com</b></p>
   </div>
 </div>
 
+
+<div class="wrap video-sec" id="video">
+  <div class="video-kotak">
+    <div class="telefon" id="telefon">
+      <video id="vidDemo" src="video-demo-sejarah.mp4?v=1" poster="video-demo-poster-sejarah.jpg?v=1" preload="none" playsinline width="720" height="1558" aria-label="Video demo Jejak TP Sejarah, satu minit"></video>
+      <button class="main-btn" id="mainBtn" type="button" aria-label="Mainkan video demo">
+        <span class="bulat"><svg viewBox="0 0 24 24" fill="#12302C" aria-hidden="true"><path d="M7 4.5v15a1 1 0 0 0 1.5.86l12.5-7.5a1 1 0 0 0 0-1.72L8.5 3.64A1 1 0 0 0 7 4.5z"/></svg></span>
+        <span class="label">Tonton satu minit</span>
+      </button>
+    </div>
+    <div>
+      <span class="eyebrow-tag">Video demo · satu minit</span>
+      <h2>Murid bermain, TP dijana secara automatik</h2>
+      <p class="lede">Rakaman sebenar aplikasi, bukan animasi. Tekan mana-mana babak untuk melompat terus ke bahagian yang ingin ditonton oleh guru.</p>
+      <ol class="babak" id="babak">
+        <li><button type="button" data-t="6.5"><time>0:06</time>Murid bermain Sejarah di telefon seperti permainan video</button></li>
+        <li><button type="button" data-t="14.5"><time>0:14</time>Soalan ikut DSKP, dengan penjelasan selepas setiap jawapan</button></li>
+        <li><button type="button" data-t="34.5"><time>0:34</time>Hentian dilepasi, TP murid dijana secara automatik</button></li>
+        <li><button type="button" data-t="37.5"><time>0:37</time>Garis masa dan petikan sumber, seperti dalam peperiksaan</button></li>
+        <li><button type="button" data-t="48.5"><time>0:48</time>Guru dapat melihat TP setiap murid serta-merta</button></li>
+        <li><button type="button" data-t="53"><time>0:53</time>Ulasan PBD siap untuk disalin ke SPPB</button></li>
+        <li><button type="button" data-t="57.5"><time>0:57</time>Soalan yang ramai murid tersilap dikesan serta-merta</button></li>
+      </ol>
+      <div class="ctas">
+        <a class="btn utama" href="index.html?demo=cikgu">Cuba kelas contoh sendiri</a>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+(function(){
+  var v=document.getElementById('vidDemo'),t=document.getElementById('telefon'),b=document.getElementById('mainBtn');
+  var bb=[].slice.call(document.querySelectorAll('#babak button'));
+  function main(dari){ if(dari!=null){ try{v.currentTime=dari}catch(e){} } var p=v.play(); if(p&&p.catch)p.catch(function(){}); }
+  b.addEventListener('click',function(){ main(null); });
+  v.addEventListener('play',function(){ t.classList.add('sedang-main'); v.controls=true; });
+  bb.forEach(function(x){ x.addEventListener('click',function(){
+    var dari=+x.getAttribute('data-t');
+    if(v.readyState<1){ v.preload='auto'; v.addEventListener('loadedmetadata',function f(){ v.removeEventListener('loadedmetadata',f); main(dari); }); v.load(); main(null); }
+    else main(dari);
+    if(window.matchMedia('(max-width:760px)').matches) t.scrollIntoView({behavior:'smooth',block:'center'});
+  }); });
+  v.addEventListener('timeupdate',function(){
+    var k=-1; bb.forEach(function(x,i){ if(v.currentTime>=+x.getAttribute('data-t')-0.2) k=i; });
+    bb.forEach(function(x,i){ x.setAttribute('aria-current',i===k?'true':'false'); });
+  });
+})();
+</script>
 
 <div class="wrap pillar-sec">
   <h2>Apa yang diperoleh murid dan guru</h2>
