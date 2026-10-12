@@ -420,7 +420,7 @@ revoke all on js_bayaran from anon, authenticated;
 grant select on js_bayaran to authenticated;
 
 -- Harga dalam sen. RM23 sebelum 1 Jan 2027 (waktu Malaysia). Selepas itu
--- RM33, kecuali guru perintis: pernah berjaya bayar peringkat yang sama
+-- RM59, kecuali guru perintis: pernah berjaya bayar peringkat yang sama
 -- sebelum 1 Jan 2027 dan langganannya tidak terputus (tamat + 30 hari tangguh).
 create or replace function js_harga(p_guru uuid, p_peringkat text)
 returns int language sql stable security definer set search_path = public as $$
@@ -431,7 +431,7 @@ returns int language sql stable security definer set search_path = public as $$
      and coalesce((select case when p_peringkat = 'rendah' then premium_rendah_tamat else premium_atas_tamat end
                     from js_guru where id = p_guru), '-infinity') > now() - interval '30 days'
       then 2300
-    else 3300 end
+    else 5900 end
 $$;
 
 -- Tandakan bil berjaya dan lanjutkan premium 365 hari daripada tarikh tamat
