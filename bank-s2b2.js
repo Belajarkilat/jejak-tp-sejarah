@@ -156,7 +156,7 @@ window.BANK["s2b2"] =
    ],
    "bos": {
     "j": "susun",
-    "t": "Susun susun lapis masyarakat kerajaan Alam Melayu dari atas ke bawah.",
+    "t": "Susun lapisan masyarakat kerajaan Alam Melayu dari atas ke bawah.",
     "p": [
      "Raja",
      "Pembesar",

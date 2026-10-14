@@ -18,7 +18,7 @@ const ARAS = [
  {j:"pilih",t:"Raja Angkor dianggap sebagai dewaraja. Maksudnya, raja dipercayai:",p:["Mempunyai sifat ketuhanan","Dipilih oleh rakyat","Seorang pedagang kaya","Berasal dari China"],b:0,u:"Konsep dewaraja menganggap raja sebagai jelmaan atau wakil dewa di dunia."},
  {j:"pilih",t:"Kedudukan raja biasanya diwarisi melalui:",p:["Keturunan","Undian rakyat","Peperiksaan","Pertandingan"],b:0,u:"Takhta diwarisi oleh kerabat diraja, biasanya putera raja."},
  {j:"pilih",t:"Pemerintah Srivijaya yang disebut dalam Batu Bersurat Kedukan Bukit ialah:",p:["Dapunta Hyang","Raden Wijaya","Jayavarman II","Gajah Mada"],b:0,u:"Batu Bersurat Kedukan Bukit menyebut Dapunta Hyang memimpin angkatan besar."}],
- bos:{j:"susun",t:"Susun susun lapis masyarakat kerajaan Alam Melayu dari atas ke bawah.",p:["Raja","Pembesar","Rakyat","Hamba"],b:[0,1,2,3],u:"Raja di puncak, diikuti pembesar, rakyat biasa dan hamba."}},
+ bos:{j:"susun",t:"Susun lapisan masyarakat kerajaan Alam Melayu dari atas ke bawah.",p:["Raja","Pembesar","Rakyat","Hamba"],b:[0,1,2,3],u:"Raja di puncak, diikuti pembesar, rakyat biasa dan hamba."}},
 
 {n:2, tempat:"Pasar Pelabuhan", sk:"5.2.2 Kegiatan ekonomi masyarakat", lampiran:null,
  kadNama:"Kapur Barus", kadEm:"\u{1F332}", kadFakta:"Kapur barus dari hutan Sumatera sangat dihargai oleh pedagang China dan Arab untuk ubat dan wangian.",

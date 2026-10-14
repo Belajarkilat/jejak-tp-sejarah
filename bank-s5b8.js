@@ -140,7 +140,7 @@ window.BANK["s5b8"] =
       "90 peratus"
      ],
      "b": 1,
-     "u": "30 peratus."
+     "u": "DEB menyasarkan pemilikan ekuiti bumiputera sekurang-kurangnya 30 peratus menjelang tahun 1990."
     },
     {
      "j": "pilih",
@@ -325,7 +325,7 @@ window.BANK["s5b8"] =
       "Petronas"
      ],
      "b": 2,
-     "u": "FELDA."
+     "u": "FELDA membuka tanah rancangan dan menempatkan peneroka daripada golongan petani miskin dan tidak bertanah."
     },
     {
      "j": "pilih",
@@ -337,7 +337,7 @@ window.BANK["s5b8"] =
       "MARA"
      ],
      "b": 3,
-     "u": "MARA."
+     "u": "MARA memberi pinjaman perniagaan, biasiswa dan latihan, serta menubuhkan institusi pendidikan seperti MRSM."
     },
     {
      "j": "pilih",
@@ -349,7 +349,7 @@ window.BANK["s5b8"] =
       "Bank Negara"
      ],
      "b": 0,
-     "u": "RISDA."
+     "u": "RISDA membantu pekebun kecil getah melalui bantuan tanam semula dan khidmat nasihat."
     },
     {
      "j": "banyak",
@@ -376,7 +376,7 @@ window.BANK["s5b8"] =
       "1948"
      ],
      "b": 1,
-     "u": "1971."
+     "u": "DEB dilancarkan pada tahun 1971 selepas peristiwa 13 Mei 1969 dan dilaksanakan hingga tahun 1990."
     },
     {
      "j": "pilih",
@@ -388,7 +388,7 @@ window.BANK["s5b8"] =
       "2050"
      ],
      "b": 2,
-     "u": "2020."
+     "u": "Wawasan 2020 dilancarkan pada tahun 1991 dengan matlamat menjadikan Malaysia negara maju menjelang tahun 2020."
     },
     {
      "j": "pilih",
@@ -400,7 +400,7 @@ window.BANK["s5b8"] =
       "2010"
      ],
      "b": 3,
-     "u": "2010."
+     "u": "Dasar Wawasan Negara (2001 hingga 2010) menggantikan Dasar Pembangunan Nasional (1991 hingga 2000)."
     },
     {
      "j": "pilih",

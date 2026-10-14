@@ -15,7 +15,7 @@ const ARAS = [
  {j:"pilih",t:"Matlamat kedua DEB ialah:",p:["Menyusun semula masyarakat","Menyatukan negeri-negeri Tanah Melayu","Menamatkan Darurat komunis","Membentuk Persekutuan Malaysia"],b:0,u:"Menyusun semula masyarakat."},
  {j:"banyak",t:"Pilih DUA badan yang membantu melaksanakan DEB.",p:["FELDA","MARA","MPAJA","Kempeitai"],b:[0,1],u:"FELDA dan MARA."},
  {j:"pilih",t:"DEB dirancang dalam tempoh:",p:["Dua puluh tahun","Lima tahun","Seratus tahun","Satu tahun"],b:0,u:"1971 hingga 1990, dua puluh tahun."},
- {j:"pilih",t:"Sasaran ekuiti bumiputera dalam DEB ialah:",p:["30 peratus","10 peratus","60 peratus","90 peratus"],b:0,u:"30 peratus."},
+ {j:"pilih",t:"Sasaran ekuiti bumiputera dalam DEB ialah:",p:["30 peratus","10 peratus","60 peratus","90 peratus"],b:0,u:"DEB menyasarkan pemilikan ekuiti bumiputera sekurang-kurangnya 30 peratus menjelang tahun 1990."},
  {j:"pilih",t:"Rancangan lima tahun yang mengandungi DEB ialah:",p:["Rancangan Malaysia Kedua","Rancangan Briggs","Rancangan Marshall","Rancangan Templer"],b:0,u:"Rancangan Malaysia Kedua."}],
  bos:{j:"banyak",t:"Pilih SEMUA padanan dasar dan tujuannya yang betul.",p:["DEB: membasmi kemiskinan","DEB: menyusun semula masyarakat","FELDA: membangunkan tanah","DEB: menyekat pendidikan rakyat","FELDA: memberi ufti kepada kuasa asing"],b:[0,1,2],u:"DEB membasmi kemiskinan dan menyusun semula masyarakat; FELDA membangunkan tanah."}},
 
@@ -37,13 +37,13 @@ const ARAS = [
  kadNama:"FELDA", kadEm:"\u{1F334}", kadFakta:"Lembaga Kemajuan Tanah Persekutuan (FELDA) ditubuhkan pada 1956 untuk membuka tanah baharu bagi petani miskin.",
  bosKadNama:"MARA", bosKadEm:"\u{1F393}", bosKadFakta:"Majlis Amanah Rakyat (MARA) ditubuhkan untuk membantu bumiputera dalam pendidikan dan perniagaan.",
  soalan:[
- {j:"pilih",t:"Agensi yang membuka tanah baharu untuk petani miskin ialah:",p:["FELDA","MARA","PERNAS","Petronas"],b:0,u:"FELDA."},
- {j:"pilih",t:"Agensi yang membantu pendidikan dan perniagaan bumiputera ialah:",p:["MARA","FELDA","RISDA","FELCRA"],b:0,u:"MARA."},
- {j:"pilih",t:"Agensi yang membantu pekebun kecil getah ialah:",p:["RISDA","MARA","FELDA","Bank Negara"],b:0,u:"RISDA."},
+ {j:"pilih",t:"Agensi yang membuka tanah baharu untuk petani miskin ialah:",p:["FELDA","MARA","PERNAS","Petronas"],b:0,u:"FELDA membuka tanah rancangan dan menempatkan peneroka daripada golongan petani miskin dan tidak bertanah."},
+ {j:"pilih",t:"Agensi yang membantu pendidikan dan perniagaan bumiputera ialah:",p:["MARA","FELDA","RISDA","FELCRA"],b:0,u:"MARA memberi pinjaman perniagaan, biasiswa dan latihan, serta menubuhkan institusi pendidikan seperti MRSM."},
+ {j:"pilih",t:"Agensi yang membantu pekebun kecil getah ialah:",p:["RISDA","MARA","FELDA","Bank Negara"],b:0,u:"RISDA membantu pekebun kecil getah melalui bantuan tanam semula dan khidmat nasihat."},
  {j:"banyak",t:"Pilih DUA usaha DEB membasmi kemiskinan.",p:["Pembukaan tanah FELDA","Latihan kemahiran","Penutupan sekolah luar bandar","Penghapusan kilang tempatan"],b:[0,1],u:"Tanah baharu dan latihan kemahiran."},
- {j:"pilih",t:"Pelaksanaan DEB bermula pada tahun:",p:["1971","1991","1957","1948"],b:0,u:"1971."},
- {j:"pilih",t:"Wawasan 2020 menyasarkan Malaysia menjadi negara maju menjelang:",p:["2020","1990","2000","2050"],b:0,u:"2020."},
- {j:"pilih",t:"Dasar Wawasan Negara berlangsung dari 2001 hingga:",p:["2010","2000","2020","2030"],b:0,u:"2010."},
+ {j:"pilih",t:"Pelaksanaan DEB bermula pada tahun:",p:["1971","1991","1957","1948"],b:0,u:"DEB dilancarkan pada tahun 1971 selepas peristiwa 13 Mei 1969 dan dilaksanakan hingga tahun 1990."},
+ {j:"pilih",t:"Wawasan 2020 menyasarkan Malaysia menjadi negara maju menjelang:",p:["2020","1990","2000","2050"],b:0,u:"Wawasan 2020 dilancarkan pada tahun 1991 dengan matlamat menjadikan Malaysia negara maju menjelang tahun 2020."},
+ {j:"pilih",t:"Dasar Wawasan Negara berlangsung dari 2001 hingga:",p:["2010","2000","2020","2030"],b:0,u:"Dasar Wawasan Negara (2001 hingga 2010) menggantikan Dasar Pembangunan Nasional (1991 hingga 2000)."},
  {j:"pilih",t:"Antara berikut, urutan dasar yang betul ialah:",p:["DEB, DPN, Dasar Wawasan Negara","DPN, DEB, Dasar Wawasan Negara","Dasar Wawasan Negara, DEB, DPN","DEB, Dasar Wawasan Negara, DPN"],b:0,u:"1971, 1991, 2001."}],
  bos:{j:"susun",t:"Susun dasar pembangunan negara mengikut kronologi.",p:["Dasar Ekonomi Baru","Dasar Pembangunan Nasional","Dasar Wawasan Negara","Wawasan 2020 menjelang 2020"],b:[0,1,2,3],u:"DEB 1971, DPN 1991, DWN 2001, dan sasaran Wawasan 2020."}},
 
