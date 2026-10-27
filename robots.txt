@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jejaktpsejarah.naikgred.com/sitemap.xml
